@@ -426,12 +426,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1568427493884">
-        <mark key="[" line="317" column="18" />
-        <mark key="]" line="317" column="36" />
-        <mark key="^" line="317" column="36" />
-        <mark key="." line="317" column="36" />
-      </file>
       <file name="/photos [postgres@localhost]" timestamp="1568111572495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -579,11 +573,11 @@
       <jump line="103" column="0" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>曇天に笑う＜外伝＞ ～決別、犲の誓い～</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>曇天に笑う＜外伝＞ ～決別、犲の誓い～</text>
       </register>
       <register name="/" type="4">
         <text>is_pass</text>
