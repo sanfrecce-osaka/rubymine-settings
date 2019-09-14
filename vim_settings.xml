@@ -203,7 +203,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="145" column="8" />
       </file>
-      <file name="/fragment.rb" timestamp="1560997263908">
+      <file name="/fragment.rb" timestamp="1568425845371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/environments/development.rb" timestamp="1563715927235">
@@ -425,6 +425,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="16" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1568426341156">
+        <mark key="[" line="308" column="10" />
+        <mark key="]" line="317" column="10" />
+        <mark key="^" line="317" column="40" />
+        <mark key="." line="317" column="10" />
       </file>
       <file name="/photos [postgres@localhost]" timestamp="1568111572495">
         <mark key="[" line="0" column="0" />
