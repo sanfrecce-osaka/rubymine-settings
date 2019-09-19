@@ -69,8 +69,10 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/views/api/v1/photos/show.json.jbuilder" timestamp="1558604664451">
         <mark key="[" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/lib/heiseirb_api_client.rb" timestamp="1568892406773">
-        <mark key="[" line="4" column="7" />
+      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/lib/heiseirb_api_client.rb" timestamp="1568893578838">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02368.yml" timestamp="1568445244988">
         <mark key="[" line="146" column="84" />
@@ -123,6 +125,9 @@
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/controllers/api/v1/photos_controller.rb" timestamp="1561450718050">
         <mark key="[" line="41" column="78" />
+      </file>
+      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/Gemfile.lock" timestamp="1568893267440">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/danime_head_store.rb" timestamp="1567391464610">
         <mark key="[" line="111" column="37" />
@@ -282,6 +287,9 @@
       </file>
       <file name="/jomon_camera_rails_development.public.schema_migrations [postgres@localhost]" timestamp="1562739200162">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/heiseirb_api_client.gemspec" timestamp="1568893217488">
+        <mark key="[" line="38" column="50" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/ext/string_spec.rb" timestamp="1560248775658">
         <mark key="[" line="5" column="22" />
@@ -494,6 +502,9 @@
       <file name="$USER_HOME$/projects/shell-scripts/Gemfile" timestamp="1559291816733">
         <mark key="[" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/.ruby-version" timestamp="1568893137854">
+        <mark key="[" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/gem/convert_numeral/convert_numeral.gemspec" timestamp="1558860421855">
         <mark key="[" line="1" column="23" />
       </file>
@@ -516,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7054" column="24" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="4880" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="4883" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="4886" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -616,25 +626,26 @@
       <jump line="94" column="83" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
       <jump line="103" column="0" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/Gemfile.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
+        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
       </register>
       <register name="-" type="4">
         <text>曇天に笑う＜外伝＞ ～決別、犲の誓い～</text>
       </register>
       <register name="/" type="4">
-        <text>ビジネスフィッシュ</text>
+        <text>bundler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
+        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -662,9 +673,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ビジネスフィッシュ</last-search>
+      <last-search>bundler</last-search>
       <last-offset />
-      <last-pattern>ビジネスフィッシュ</last-pattern>
+      <last-pattern>bundler</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Fixture</entry>
         <entry>method_missing</entry>
         <entry>context</entry>
         <entry>let</entry>
@@ -692,6 +702,7 @@
         <entry>is</entry>
         <entry>is_pass</entry>
         <entry>ビジネスフィッシュ</entry>
+        <entry>bundler</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
