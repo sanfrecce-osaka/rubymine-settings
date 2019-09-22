@@ -79,6 +79,11 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/lib/heiseirb_api_client/curry.rb" timestamp="1569063009881">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05e5ba5b-5d42-442b-8ed9-1a139698a47b/console_3.sql" timestamp="1561320809730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -629,11 +634,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/Gemfile.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>曇天に笑う＜外伝＞ ～決別、犲の誓い～</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>bundler</text>
