@@ -317,6 +317,12 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="31" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/triple-equals-exercises/override_triple_equals/my_string_wrapper.rb" timestamp="1569413213739">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02339.yml" timestamp="1568444976528">
         <mark key="[" line="193" column="84" />
         <mark key="]" line="194" column="0" />
