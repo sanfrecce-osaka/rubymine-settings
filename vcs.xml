@@ -14,8 +14,12 @@
           <option name="url" value="git@github.com:heiseirb/heiseirb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:grow-rb/triple-equals-exercises.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/heiseirb" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/growrb" />
   </component>
 </application>

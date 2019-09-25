@@ -31,6 +31,9 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/renamed_season_list.yml" timestamp="1565878821351">
         <mark key="[" line="91" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/triple-equals-exercises/implement_size_detector/my_size_detector.rb" timestamp="1569412140042">
+        <mark key="[" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/form/photo_index.rb" timestamp="1558608212745">
         <mark key="[" line="8" column="20" />
       </file>
@@ -68,6 +71,9 @@
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/views/api/v1/photos/show.json.jbuilder" timestamp="1558604664451">
         <mark key="[" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/growrb/triple-equals-exercises/implement_size_detector/my_size_detector_test.rb" timestamp="1569412257033">
+        <mark key="[" line="5" column="44" />
       </file>
       <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/lib/heiseirb_api_client.rb" timestamp="1568893578838">
         <mark key="[" line="0" column="37" />
@@ -495,7 +501,7 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/db_data_task.rb" timestamp="1563093559030">
         <mark key="[" line="51" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568890560866">
+      <file name="/Dummy.txt" timestamp="1569411852084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
