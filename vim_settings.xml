@@ -259,6 +259,11 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/triple-equals-exercises/reimplement_before_callback/my_before_callback.rb" timestamp="1569416426264">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/oss/morizyun.github.io/ruby/design-pattern-index.html" timestamp="1564296536784">
         <mark key="[" line="166" column="42" />
         <mark key="]" line="166" column="43" />
@@ -646,11 +651,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/Gemfile.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bundler</text>
@@ -659,19 +664,19 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
+        <text encoding="base64">ICAgICAgcHV0cyBpZl9jb25kaXRpb24K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
