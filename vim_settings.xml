@@ -527,11 +527,11 @@
       <file name="$USER_HOME$/projects/shell-scripts/Gemfile" timestamp="1559291816733">
         <mark key="[" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/play_method/ace_test.rb" timestamp="1570275532627">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/play_method/ace_test.rb" timestamp="1570275750651">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/.ruby-version" timestamp="1568893137854">
         <mark key="[" line="0" column="5" />
@@ -661,7 +661,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -673,31 +673,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBpZl9jb25kaXRpb24K</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyBpZl9jb25kaXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
+        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
