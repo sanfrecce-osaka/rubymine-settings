@@ -500,8 +500,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570350801646">
-        <mark key="[" line="382" column="48" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570352823564">
+        <mark key="[" line="386" column="11" />
+        <mark key="]" line="386" column="11" />
+        <mark key="." line="386" column="11" />
+        <mark key="^" line="386" column="12" />
       </file>
       <file name="/photos [postgres@localhost]" timestamp="1568111572495">
         <mark key="[" line="0" column="0" />
@@ -661,11 +664,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/Gemfile.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
+      <register name="&quot;" type="4">
+        <text>X</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
         <text>bundler</text>
@@ -674,31 +677,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBpZl9jb25kaXRpb24K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHV0cyBpZl9jb25kaXRpb24K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSAiYnVuZGxlci9zZXR1cCIK</text>
+        <text encoding="base64">cmVxdWlyZSAiaGVpc2VpcmJfYXBpX2NsaWVudC9jb3JlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
