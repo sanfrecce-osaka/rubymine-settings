@@ -500,7 +500,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570348436461" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570350801646">
+        <mark key="[" line="382" column="48" />
+      </file>
       <file name="/photos [postgres@localhost]" timestamp="1568111572495">
         <mark key="[" line="0" column="0" />
       </file>
