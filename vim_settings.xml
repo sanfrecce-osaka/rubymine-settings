@@ -329,6 +329,7 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_00454.yml" timestamp="1570370503397" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02339.yml" timestamp="1568444976528">
         <mark key="[" line="193" column="84" />
         <mark key="]" line="194" column="0" />
@@ -500,7 +501,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570358051198">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570370570103">
         <mark key="[" line="475" column="58" />
         <mark key="]" line="468" column="22" />
         <mark key="." line="468" column="22" />
