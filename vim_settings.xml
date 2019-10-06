@@ -500,11 +500,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570352823564">
-        <mark key="[" line="386" column="11" />
-        <mark key="]" line="386" column="11" />
-        <mark key="." line="386" column="11" />
-        <mark key="^" line="386" column="12" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570356217297">
+        <mark key="[" line="468" column="21" />
+        <mark key="]" line="468" column="22" />
+        <mark key="." line="468" column="22" />
+        <mark key="^" line="465" column="19" />
       </file>
       <file name="/photos [postgres@localhost]" timestamp="1568111572495">
         <mark key="[" line="0" column="0" />
@@ -665,10 +665,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>X</text>
+        <text encoding="base64">44CA</text>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text encoding="base64">44CA</text>
       </register>
       <register name="/" type="4">
         <text>bundler</text>
