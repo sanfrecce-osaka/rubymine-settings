@@ -500,8 +500,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570356217297">
-        <mark key="[" line="468" column="21" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1570358051198">
+        <mark key="[" line="475" column="58" />
         <mark key="]" line="468" column="22" />
         <mark key="." line="468" column="22" />
         <mark key="^" line="465" column="19" />
@@ -549,7 +549,8 @@
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/app/javascript/packs/markdown.js" timestamp="1560077366591">
         <mark key="[" line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1565937887063">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1570359073412">
+        <mark key="'" line="8033" column="15" />
         <mark key="[" line="7236" column="61" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/test.rb" timestamp="1563716079960">
@@ -562,18 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4880" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="4883" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="4886" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="4889" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="4892" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="4895" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="4898" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="51" column="16" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/season_lineup_spec.rb" />
-      <jump line="20" column="48" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/season_lineup_spec.rb" />
-      <jump line="365" column="14" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="368" column="11" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="371" column="11" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="2654" column="25" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="3878" column="25" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="3944" column="31" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -662,6 +651,18 @@
       <jump line="103" column="0" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/Gemfile.lock" />
+      <jump line="7171" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7291" column="23" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7865" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7868" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7871" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3638" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3641" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3644" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7857" column="3" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="8027" column="14" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="8030" column="14" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="8033" column="15" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -671,7 +672,7 @@
         <text encoding="base64">44CA</text>
       </register>
       <register name="/" type="4">
-        <text>bundler</text>
+        <text>ワタル</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -708,9 +709,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bundler</last-search>
+      <last-search>ワタル</last-search>
       <last-offset />
-      <last-pattern>bundler</last-pattern>
+      <last-pattern>ワタル</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -718,10 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>method_missing</entry>
-        <entry>context</entry>
-        <entry>let</entry>
-        <entry>V1</entry>
         <entry>season</entry>
         <entry>Re:ステージ!ドリームデイズ♪</entry>
         <entry>Re:ステージ\!ドリームデイズ♪</entry>
@@ -738,6 +735,10 @@
         <entry>is_pass</entry>
         <entry>ビジネスフィッシュ</entry>
         <entry>bundler</entry>
+        <entry>レイズナー</entry>
+        <entry>バカとテスト</entry>
+        <entry>バカとテストと召喚獣</entry>
+        <entry>ワタル</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
