@@ -107,8 +107,11 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/v2/season_lineup.rb" timestamp="1562997683518">
         <mark key="[" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570569822397">
+      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570570962571">
         <mark key="[" line="18" column="29" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/controllers/api/v1/photos_controller.rb" timestamp="1561450718050">
         <mark key="[" line="41" column="78" />
@@ -373,7 +376,6 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1570569394749" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_00379.yml" timestamp="1568442872922">
         <mark key="[" line="927" column="84" />
       </file>
@@ -593,8 +595,8 @@
       <jump line="8033" column="15" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlamVjdCB7IHxzZWFzb258ICVyKCkubWF0Y2g/KHNlYXNvbi5maXJzdF9lcGlzb2RlX3VybCkgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aGFzaCA9IHsgJ+mYquelnicgPT4gJ+mYquelnicsICflt6jkuronID0+ICflt6jkuronIH0KaGFzaC5zZWxlY3QoJjo9PSk=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">44CA</text>
@@ -605,32 +607,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlamVjdCB7IHxzZWFzb258ICVyKCkubWF0Y2g/KHNlYXNvbi5maXJzdF9lcGlzb2RlX3VybCkgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">aGFzaCA9IHsgJ+mYquelnicgPT4gJ+mYquelnicsICflt6jkuronID0+ICflt6jkuronIH0KaGFzaC5zZWxlY3QoJjo9PSk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlamVjdCB7IHxzZWFzb258ICVyKCkubWF0Y2g/KHNlYXNvbi5maXJzdF9lcGlzb2RlX3VybCkgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBpZl9jb25kaXRpb24K</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyBpZl9jb25kaXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
