@@ -107,8 +107,8 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/v2/season_lineup.rb" timestamp="1562997683518">
         <mark key="[" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570275615209">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570569822397">
+        <mark key="[" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/controllers/api/v1/photos_controller.rb" timestamp="1561450718050">
         <mark key="[" line="41" column="78" />
@@ -373,6 +373,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Ruby Console" timestamp="1570569394749" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_00379.yml" timestamp="1568442872922">
         <mark key="[" line="927" column="84" />
       </file>
