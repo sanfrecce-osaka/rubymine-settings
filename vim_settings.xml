@@ -107,8 +107,8 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/v2/season_lineup.rb" timestamp="1562997683518">
         <mark key="[" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570580034577">
-        <mark key="[" line="20" column="55" />
+      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570592865924">
+        <mark key="[" line="18" column="29" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
@@ -595,8 +595,8 @@
       <jump line="8033" column="15" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgJXcoMSAyKS5hbnk/KCZAc2VhcmNoX3R5cGUubWV0aG9kKDo9PSkpCiAgeyBzZWFyY2hfdHlwZTogc2VhcmNoX3R5cGUsIHN0YXJ0ZWRfYXQ6IHN0YXJ0ZWRfYXQsIGZpbmlzaGVkX2F0OiBmaW5pc2hlZF9hdCwgIH0KZWxzaWYKICB7IHNlYXJjaF90eXBlOiBzZWFyY2hfdHlwZSwgaG9nZV9pZDogaG9nZV9pZCB9CmVuZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">44CA</text>
@@ -607,29 +607,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgJXcoMSAyKS5hbnk/KCZAc2VhcmNoX3R5cGUubWV0aG9kKDo9PSkpCiAgeyBzZWFyY2hfdHlwZTogc2VhcmNoX3R5cGUsIHN0YXJ0ZWRfYXQ6IHN0YXJ0ZWRfYXQsIGZpbmlzaGVkX2F0OiBmaW5pc2hlZF9hdCwgIH0KZWxzaWYKICB7IHNlYXJjaF90eXBlOiBzZWFyY2hfdHlwZSwgaG9nZV9pZDogaG9nZV9pZCB9CmVuZA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZW5kCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cG9pbnRzID0gWzEwLCAyMCwgMzAsIDQwXQpwb2ludHMubWFwLndpdGhfaW5kZXgoMSwgJjorKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB1c2VyLmNoZWNrX2xhc3RfbmFtZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aGFzaCA9IHsgJ+mYquelnicgPT4gJ+mYquelnicsICflt6jkuronID0+ICflt6jkuronIH0KaGFzaC5zZWxlY3QoJjo9PSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB1c2VyLmNoZWNrX2ZpcnN0X25hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlamVjdCB7IHxzZWFzb258ICVyKCkubWF0Y2g/KHNlYXNvbi5maXJzdF9lcGlzb2RlX3VybCkgfQo=</text>
+        <text encoding="base64">IyB1c2Vyc+OBr+ODpuODvOOCtuODvOaDheWgseOCkuaMgeOBo+OBn+OCpOODs+OCueOCv+ODs+OCueOCkuaMgeOBo+OBn+mFjeWIl+OBjOWFpeOBo+OBpuOBhOOCi+aDs+Wumgp1c2Vycy5zZWxlY3QoJjpkZWxldGVkPykubWFwKCZEZWxldGVkVXNlci5tZXRob2QoOm5ldykpCgpwcml2YXRlCgpkZWYgY2hlY2tfcGFyYW1zKHVzZXIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgJXcoMSAyKS5hbnk/KCZAc2VhcmNoX3R5cGUubWV0aG9kKDo9PSkpCiAgeyBzZWFyY2hfdHlwZTogc2VhcmNoX3R5cGUsIHN0YXJ0ZWRfYXQ6IHN0YXJ0ZWRfYXQsIGZpbmlzaGVkX2F0OiBmaW5pc2hlZF9hdCwgIH0KZWxzaWYKICB7IHNlYXJjaF90eXBlOiBzZWFyY2hfdHlwZSwgaG9nZV9pZDogaG9nZV9pZCB9CmVuZA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">cG9pbnRzID0gWzEwLCAyMCwgMzAsIDQwXQpwb2ludHMubWFwLndpdGhfaW5kZXgoMSwgJjorKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">aGFzaCA9IHsgJ+mYquelnicgPT4gJ+mYquelnicsICflt6jkuronID0+ICflt6jkuronIH0KaGFzaC5zZWxlY3QoJjo9PSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlamVjdCB7IHxzZWFzb258ICVyKCkubWF0Y2g/KHNlYXNvbi5maXJzdF9lcGlzb2RlX3VybCkgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
