@@ -107,11 +107,11 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/v2/season_lineup.rb" timestamp="1562997683518">
         <mark key="[" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570577311088">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/projects/play_method/ace.rb" timestamp="1570578912511">
+        <mark key="[" line="20" column="0" />
         <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/controllers/api/v1/photos_controller.rb" timestamp="1561450718050">
         <mark key="[" line="41" column="78" />
@@ -596,7 +596,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cG9pbnRzID0gWzEwLCAyMCwgMzAsIDQwXQpwb2ludHMubWFwLndpdGhfaW5kZXgoMSwgJjorKQ==</text>
+        <text encoding="base64">aWYgJXcoMSAyKS5hbnk/KCZAc2VhcmNoX3R5cGUubWV0aG9kKDo9PSkpCiAgeyBzZWFyY2hfdHlwZTogc2VhcmNoX3R5cGUsIHN0YXJ0ZWRfYXQ6IHN0YXJ0ZWRfYXQsIGZpbmlzaGVkX2F0OiBmaW5pc2hlZF9hdCwgIH0KZWxzaWYKICB7IHNlYXJjaF90eXBlOiBzZWFyY2hfdHlwZSwgaG9nZV9pZDogaG9nZV9pZCB9CmVuZA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">44CA</text>
@@ -608,31 +608,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cG9pbnRzID0gWzEwLCAyMCwgMzAsIDQwXQpwb2ludHMubWFwLndpdGhfaW5kZXgoMSwgJjorKQ==</text>
+        <text encoding="base64">aWYgJXcoMSAyKS5hbnk/KCZAc2VhcmNoX3R5cGUubWV0aG9kKDo9PSkpCiAgeyBzZWFyY2hfdHlwZTogc2VhcmNoX3R5cGUsIHN0YXJ0ZWRfYXQ6IHN0YXJ0ZWRfYXQsIGZpbmlzaGVkX2F0OiBmaW5pc2hlZF9hdCwgIH0KZWxzaWYKICB7IHNlYXJjaF90eXBlOiBzZWFyY2hfdHlwZSwgaG9nZV9pZDogaG9nZV9pZCB9CmVuZA==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">cG9pbnRzID0gWzEwLCAyMCwgMzAsIDQwXQpwb2ludHMubWFwLndpdGhfaW5kZXgoMSwgJjorKQ==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">aGFzaCA9IHsgJ+mYquelnicgPT4gJ+mYquelnicsICflt6jkuronID0+ICflt6jkuronIH0KaGFzaC5zZWxlY3QoJjo9PSk=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnJlamVjdCB7IHxzZWFzb258ICVyKCkubWF0Y2g/KHNlYXNvbi5maXJzdF9lcGlzb2RlX3VybCkgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIGFjZQoKICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGEgPSB7IHJlY2lldmVyOiAldyhhKSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
