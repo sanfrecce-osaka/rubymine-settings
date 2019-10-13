@@ -63,7 +63,7 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/service/service_generator.rb" timestamp="1570931718200">
+      <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/service/service_generator.rb" timestamp="1570933666842">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
@@ -591,6 +591,7 @@
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/validator/validator_generator.rb" timestamp="1570933870380" />
     </filemarks>
     <jumps>
       <jump line="3878" column="25" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
