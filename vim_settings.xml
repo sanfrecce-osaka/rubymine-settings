@@ -9,6 +9,13 @@
       <file name="$USER_HOME$/projects/oss/annict/app/views/episodes/_episode_row.html.slim" timestamp="1559466665186">
         <mark key="[" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1571005773589">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="163" column="37" />
+        <mark key="]" line="165" column="30" />
+        <mark key="^" line="165" column="30" />
+        <mark key="." line="165" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/home/index.html.haml" timestamp="1559227030336">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,9 +31,9 @@
         <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02234.yml" timestamp="1571001766660">
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="0" />
-        <mark key="." line="397" column="0" />
+        <mark key="[" line="446" column="0" />
+        <mark key="]" line="446" column="0" />
+        <mark key="." line="446" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/form/photo_index.rb" timestamp="1558608212745">
         <mark key="[" line="8" column="20" />
@@ -106,10 +113,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3a7e96d7-ea78-4ac8-ba3b-cfeb730622b8/console_1.sql" timestamp="1562919261677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02354.yml" timestamp="1570995860350">
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02354.yml" timestamp="1571005531614">
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="." line="310" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/v2/season_lineup.rb" timestamp="1562997683518">
         <mark key="[" line="30" column="30" />
@@ -125,9 +132,9 @@
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02417.yml" timestamp="1570347598066" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02232.yml" timestamp="1570993696816">
-        <mark key="[" line="498" column="0" />
-        <mark key="]" line="498" column="0" />
-        <mark key="." line="498" column="0" />
+        <mark key="[" line="511" column="0" />
+        <mark key="]" line="511" column="0" />
+        <mark key="." line="511" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/seasons/index.html.haml" timestamp="1559213167935">
         <mark key="[" line="0" column="0" />
@@ -213,9 +220,9 @@
         <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02219.yml" timestamp="1570993778372">
-        <mark key="[" line="454" column="0" />
-        <mark key="]" line="454" column="0" />
-        <mark key="." line="454" column="0" />
+        <mark key="[" line="466" column="0" />
+        <mark key="]" line="466" column="0" />
+        <mark key="." line="466" column="0" />
       </file>
       <file name="/danime-nico-tools_development.public.schema_migrations [postgres@localhost]" timestamp="1558773117711">
         <mark key="[" line="0" column="0" />
@@ -235,9 +242,9 @@
         <mark key="[" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02381.yml" timestamp="1571001379044">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02426.yml" timestamp="1570347944307" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/models/episode.rb" timestamp="1559640035982">
@@ -297,6 +304,7 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/support/helpers/umakuikukana_helper.rb" timestamp="1565382512780">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02482.yml" timestamp="1571002524991" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02371.yml" timestamp="1570966304482">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="0" />
@@ -311,9 +319,9 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02423.yml" timestamp="1570347854455" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02421.yml" timestamp="1570347747812" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02367.yml" timestamp="1570993628978">
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="0" />
-        <mark key="." line="436" column="0" />
+        <mark key="[" line="456" column="0" />
+        <mark key="]" line="456" column="0" />
+        <mark key="." line="456" column="0" />
       </file>
       <file name="/df5s2p5h4fhc1o.public.episodes [postgres@heroku]" timestamp="1566904377986">
         <mark key="[" line="0" column="0" />
@@ -343,10 +351,10 @@
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02416.yml" timestamp="1570347532732" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02493.yml" timestamp="1570996670264" />
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_00379.yml" timestamp="1570994594205">
-        <mark key="[" line="976" column="0" />
-        <mark key="]" line="976" column="0" />
-        <mark key="." line="976" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_00379.yml" timestamp="1571004427753">
+        <mark key="[" line="988" column="0" />
+        <mark key="]" line="988" column="0" />
+        <mark key="." line="988" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02361.yml" timestamp="1570967990582">
         <mark key="[" line="208" column="0" />
@@ -356,10 +364,10 @@
       <file name="$USER_HOME$/projects/meta_programming_method_definition_exercises/reimplement_enum/my_enum_or_test.rb" timestamp="1564525670920">
         <mark key="[" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02395.yml" timestamp="1570994357413">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02395.yml" timestamp="1571004083971">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02352.yml" timestamp="1570964991689">
         <mark key="[" line="206" column="0" />
@@ -369,18 +377,18 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/default_webpacker.yml" timestamp="1559348123526">
         <mark key="[" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02220.yml" timestamp="1570995167399">
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="0" />
-        <mark key="." line="467" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02220.yml" timestamp="1571005288065">
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="368" column="0" />
+        <mark key="." line="368" column="0" />
       </file>
       <file name="$USER_HOME$/projects/oss/annict/docker-compose.yml" timestamp="1558435604145">
         <mark key="[" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02211.yml" timestamp="1570994471971">
-        <mark key="[" line="416" column="0" />
-        <mark key="]" line="416" column="0" />
-        <mark key="." line="416" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02211.yml" timestamp="1571004134758">
+        <mark key="[" line="429" column="0" />
+        <mark key="]" line="429" column="0" />
+        <mark key="." line="429" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/README.md" timestamp="1559353559648">
         <mark key="[" line="12" column="12" />
@@ -410,7 +418,7 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571001770130">
+      <file name="/Dummy.txt" timestamp="1571005798041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02427.yml" timestamp="1570347969601" />
@@ -442,6 +450,13 @@
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/app/javascript/packs/markdown.js" timestamp="1560077366591">
         <mark key="[" line="0" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1571005795830">
+        <mark key="'" line="7450" column="1" />
+        <mark key="[" line="7489" column="0" />
+        <mark key="]" line="7489" column="0" />
+        <mark key="." line="7489" column="0" />
+        <mark key="^" line="7487" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/test.rb" timestamp="1563716079960">
         <mark key="[" line="2" column="15" />
       </file>
@@ -458,16 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="26" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/memoized_helpers.rb" />
-      <jump line="293" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/memoized_helpers.rb" />
-      <jump line="472" column="44" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/memoized_helpers.rb" />
-      <jump line="90" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/Gemfile.lock" />
-      <jump line="176" column="4" filename="$USER_HOME$/projects/niconico/danime-nico-tools/Gemfile.lock" />
-      <jump line="175" column="4" filename="$USER_HOME$/projects/niconico/danime-nico-tools/Gemfile.lock" />
-      <jump line="427" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/Gemfile.lock" />
-      <jump line="349" column="21" filename="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" />
-      <jump line="32" column="19" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/rails_helper.rb" />
-      <jump line="1" column="2" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/support/helpers/cassette_helper.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/support/helpers/cassette_helper.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/Gemfile" />
       <jump line="59" column="46" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/rails_helper.rb" />
@@ -545,7 +550,6 @@
       <jump line="7585" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7369" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7408" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7452" column="2" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7521" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7436" column="2" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7416" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -558,36 +562,35 @@
       <jump line="7524" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7414" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7542" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="19" column="24" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7449" column="61" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7452" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7455" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7458" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7461" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7464" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7476" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7479" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7596" column="2" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7450" column="1" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMjfoqbEKICB0aXRsZTogIuOAjOmAsuWMlu+8geOCsOODqeODh+OCo+OCqOODvOOCv+ODvOODnOOCv+ODs++8geOAjSIKICBkZXNjcmlwdGlvbjogIuOAjOmAsuWMlu+8geOCsOODqeODh+OCo+OCqOODvOOCv+ODvOODnOOCv+ODs++8geOAjemBoOi2s+OBp+OCr+ODqeOCueODoeOCpOODiOOBn+OBoeOBqOWLleeJqeWckuOBq+OChOOBo+OBpuOBjeOBn+ODnuOCs+ODiOOBqOOCtOODs+OBmOOCjeODvOOAguOBneOBk+OBq+eqgeWmguePvuOCjOOBn+OBruOBr+avm+ODnuODvOOCuOOCp+ODs+OCt+ODvOOBq+OCiOOCiuiqleeUn+OBl+OBn+WHtuaCquOBquODnuODs+ODouOCueODu+avm+ODouOCueOBoOOBo+OBn+OAguaCquOBhOavm+OBq+OCiOOBo+OBpuS7luOBruWLleeJqeOBn+OBoeOCkuaTjeOCiuasoeOAheOBqOS6uumWk+OCkuaNleOCieOBiOOBpuOBhOOBj+avm+ODouOCueOAguOCtOODs+OBmOOCjeODvOOBr+ODoOOCreODoOOCreOCtOODs+OBmOOCjeODvOOBq+ODnOOCv+ODgeOCp+ODs+OBl+OBpueri+OBoeWQkeOBi+OBhuOCguatr+OBjOOBn+OBn+OBquOBhOOAgue1tuS9k+e1tuWRveOBruWNseapn+OCkuS5l+OCiui2iuOBiOOCi+OBq+OBr+OAgeOBk+OBoOOBhOOBruODnOOCv+ODs+OAjuODoOOCreODoOOCreOAj+OCkuOCquODiuODgeODo+ODvOOBp+mAsuWMluOBleOBm+OAgeODrOOCuOOCp+ODs+ODieODnOOCv+ODs+OBq+mAsuWMluOBleOBm+OCi+W/heimgeOBjOOBguOBo+OBn++9pe+9pe+9pe+8gTxicj48YnI+44K044Oz44GY44KN44O8OuadvumHjeOAgOaFju+8j+WJjeelnuODnuOCs+ODiDrnn7PkuIrpnZnpppnvvI/jgZfjgZLjgaHjgpM65p+a5pyoCiAgICDlsJrlrZDvvI/jgbXjgajjgaPjgZfjg7w65YWr55m+5bGLIOadj++8j+OBkeOCk+OBoeOCg+OCkzrph47kuIog57+U77yP44Gf44Gj44Gk44KTOuWupCDlhYPmsJfvvI/jgYrjgZjjgofjgYo655m955+zIOaZtOmmme+8j+OBtuOBoeOCh+OBhjrlt53mnZEg5rW35LmD77yP44Oe44Kz44OI54i2OumWk+WztiDmt7Plj7jvvI/jg57jgrPjg4jmr4065ZyS5bSOIOacquaBte+8j+OCv+OCpOOCvuODvDrnn7Pljp8KICAgIOWHoe+8j+OBn+OCj+OBl+OBguOBlDrmnKjlhoUg5aSq6YOO77yP44G044GL44Gj44Gh44KHOuWurua+pCDmraPvvI/jg43jgrM644GG44Gu44Gh44Gy44KN77yP44OK44Os44O844K/44O8Ouaxn+W3nSDlpK7nlJ88YnI+PGJyPuWOn+S9nDrjgr3jg4vjg7zjg7vjgqTjg7Pjgr/jg6njgq/jg4bjgqPjg5bjgqjjg7Pjgr/jg4bjgqTjg7Pjg6Hjg7Pjg4goU0lFKeOAgeOCveODi+ODvOODu+ODn+ODpeODvOOCuOODg+OCr+OCqOODs+OCv+ODhuOCpOODs+ODoeODs+ODiOOAgeOCouODi+ODl+ODrOODg+OCr+OCueOAgeWwj+WtpumkqO+8j+OCreODo+ODqeOCr+OCv+ODvOWOn+ahiDrlpKfnqqrlro/mmIwoU0lFKe+8j+OCouODvOODiOODh+OCo+ODrOOCr+OCt+ODp+ODszrkuK3kupXkv4rlvaYoU0lFKe+8j+OCreODo+ODqeOCr+OCv+ODvOODh+OCtuOCpOODszrliqDol6TliJ3ph43vvI/jgrfjg6rjg7zjgrrjg4fjgqPjg6zjgq/jgr/jg7w65qOu5LqV44Kx44Oz44K344Ot44KmKOODgOODluODiOOCpeODvOODs+OCueOCv+OCuOOCqinvvI/jgrfjg6rjg7zjgrrmp4vmiJA65biC5bed5Y2B5YSE6KGb6ZaA77yP6Z+z5qW9OuWxseacrOiMgihPTE3jg5/jg6Xjg7zjgrjjg4Pjgq8p77yP6Z+z6Z+/55uj552jOua/semHjumrmOW5tO+8j+OCouODi+ODoeODvOOCt+ODp+ODs+WItuS9nDpPTE3jgIFXSVQKICAgIFNUVURJTzxicj48YnI+wqlTSUXjg7tTTUXjg7tBTljjg7vlsI/lrabppKggwqnjgrTjg7PjgZjjgo3jg7zjg5fjg63jgrjjgqfjgq/jg4g8YnI+PGJyPnNvMzU3NTExMjfihpDliY3oqbHjgIDnrKzkuIDoqbHihpJzbzM0OTEzMTUxIgogIGxlbmd0aF9zZWNvbmRzOiAxNDYwCiAgY29udGVudF9pZDogc28zNTc4MjE4MQogIGRlZmF1bHRfdGhyZWFkX2lkOiAxNTcwNDE1OTQyCiAgY2hhbm5lbF9pZDogMjYzMjcyMAogIHRodW1ibmFpbF91cmw6IGh0dHBzOi8vbmljb3ZpZGVvLmNkbi5uaW1nLmpwL3RodW1ibmFpbHMvMzU3ODIxODEvMzU3ODIxODEuODE4NTc4MTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>レイズナー</text>
+        <text>本好きの下剋上</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMjfoqbEKICB0aXRsZTogIuOAjOmAsuWMlu+8geOCsOODqeODh+OCo+OCqOODvOOCv+ODvOODnOOCv+ODs++8geOAjSIKICBkZXNjcmlwdGlvbjogIuOAjOmAsuWMlu+8geOCsOODqeODh+OCo+OCqOODvOOCv+ODvOODnOOCv+ODs++8geOAjemBoOi2s+OBp+OCr+ODqeOCueODoeOCpOODiOOBn+OBoeOBqOWLleeJqeWckuOBq+OChOOBo+OBpuOBjeOBn+ODnuOCs+ODiOOBqOOCtOODs+OBmOOCjeODvOOAguOBneOBk+OBq+eqgeWmguePvuOCjOOBn+OBruOBr+avm+ODnuODvOOCuOOCp+ODs+OCt+ODvOOBq+OCiOOCiuiqleeUn+OBl+OBn+WHtuaCquOBquODnuODs+ODouOCueODu+avm+ODouOCueOBoOOBo+OBn+OAguaCquOBhOavm+OBq+OCiOOBo+OBpuS7luOBruWLleeJqeOBn+OBoeOCkuaTjeOCiuasoeOAheOBqOS6uumWk+OCkuaNleOCieOBiOOBpuOBhOOBj+avm+ODouOCueOAguOCtOODs+OBmOOCjeODvOOBr+ODoOOCreODoOOCreOCtOODs+OBmOOCjeODvOOBq+ODnOOCv+ODgeOCp+ODs+OBl+OBpueri+OBoeWQkeOBi+OBhuOCguatr+OBjOOBn+OBn+OBquOBhOOAgue1tuS9k+e1tuWRveOBruWNseapn+OCkuS5l+OCiui2iuOBiOOCi+OBq+OBr+OAgeOBk+OBoOOBhOOBruODnOOCv+ODs+OAjuODoOOCreODoOOCreOAj+OCkuOCquODiuODgeODo+ODvOOBp+mAsuWMluOBleOBm+OAgeODrOOCuOOCp+ODs+ODieODnOOCv+ODs+OBq+mAsuWMluOBleOBm+OCi+W/heimgeOBjOOBguOBo+OBn++9pe+9pe+9pe+8gTxicj48YnI+44K044Oz44GY44KN44O8OuadvumHjeOAgOaFju+8j+WJjeelnuODnuOCs+ODiDrnn7PkuIrpnZnpppnvvI/jgZfjgZLjgaHjgpM65p+a5pyoCiAgICDlsJrlrZDvvI/jgbXjgajjgaPjgZfjg7w65YWr55m+5bGLIOadj++8j+OBkeOCk+OBoeOCg+OCkzrph47kuIog57+U77yP44Gf44Gj44Gk44KTOuWupCDlhYPmsJfvvI/jgYrjgZjjgofjgYo655m955+zIOaZtOmmme+8j+OBtuOBoeOCh+OBhjrlt53mnZEg5rW35LmD77yP44Oe44Kz44OI54i2OumWk+WztiDmt7Plj7jvvI/jg57jgrPjg4jmr4065ZyS5bSOIOacquaBte+8j+OCv+OCpOOCvuODvDrnn7Pljp8KICAgIOWHoe+8j+OBn+OCj+OBl+OBguOBlDrmnKjlhoUg5aSq6YOO77yP44G044GL44Gj44Gh44KHOuWurua+pCDmraPvvI/jg43jgrM644GG44Gu44Gh44Gy44KN77yP44OK44Os44O844K/44O8Ouaxn+W3nSDlpK7nlJ88YnI+PGJyPuWOn+S9nDrjgr3jg4vjg7zjg7vjgqTjg7Pjgr/jg6njgq/jg4bjgqPjg5bjgqjjg7Pjgr/jg4bjgqTjg7Pjg6Hjg7Pjg4goU0lFKeOAgeOCveODi+ODvOODu+ODn+ODpeODvOOCuOODg+OCr+OCqOODs+OCv+ODhuOCpOODs+ODoeODs+ODiOOAgeOCouODi+ODl+ODrOODg+OCr+OCueOAgeWwj+WtpumkqO+8j+OCreODo+ODqeOCr+OCv+ODvOWOn+ahiDrlpKfnqqrlro/mmIwoU0lFKe+8j+OCouODvOODiOODh+OCo+ODrOOCr+OCt+ODp+ODszrkuK3kupXkv4rlvaYoU0lFKe+8j+OCreODo+ODqeOCr+OCv+ODvOODh+OCtuOCpOODszrliqDol6TliJ3ph43vvI/jgrfjg6rjg7zjgrrjg4fjgqPjg6zjgq/jgr/jg7w65qOu5LqV44Kx44Oz44K344Ot44KmKOODgOODluODiOOCpeODvOODs+OCueOCv+OCuOOCqinvvI/jgrfjg6rjg7zjgrrmp4vmiJA65biC5bed5Y2B5YSE6KGb6ZaA77yP6Z+z5qW9OuWxseacrOiMgihPTE3jg5/jg6Xjg7zjgrjjg4Pjgq8p77yP6Z+z6Z+/55uj552jOua/semHjumrmOW5tO+8j+OCouODi+ODoeODvOOCt+ODp+ODs+WItuS9nDpPTE3jgIFXSVQKICAgIFNUVURJTzxicj48YnI+wqlTSUXjg7tTTUXjg7tBTljjg7vlsI/lrabppKggwqnjgrTjg7PjgZjjgo3jg7zjg5fjg63jgrjjgqfjgq/jg4g8YnI+PGJyPnNvMzU3NTExMjfihpDliY3oqbHjgIDnrKzkuIDoqbHihpJzbzM0OTEzMTUxIgogIGxlbmd0aF9zZWNvbmRzOiAxNDYwCiAgY29udGVudF9pZDogc28zNTc4MjE4MQogIGRlZmF1bHRfdGhyZWFkX2lkOiAxNTcwNDE1OTQyCiAgY2hhbm5lbF9pZDogMjYzMjcyMAogIHRodW1ibmFpbF91cmw6IGh0dHBzOi8vbmljb3ZpZGVvLmNkbi5uaW1nLmpwL3RodW1ibmFpbHMvMzU3ODIxODEvMzU3ODIxODEuODE4NTc4MTEK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMTHoqbEKICB0aXRsZTogSlVER0VNRU5UCiAgZGVzY3JpcHRpb246IOS4lumWk+OBruWkp+OBjeOBquazqOebruOCkumbhuOCgeOCi+S4reOAgeOCruODo+ODtOOCo+ODs+auuuWus+S6i+S7tuOBq+OBpOOBhOOBpuOBruOAgeODmeODoOOBruijgeWIpOOBjOOBr+OBmOOBvuOBo+OBn+OAguODleOCp+ODq+ODiOOBr+ODmeODqeOAgeODmeODreOBruWtmOWcqOOCguWFrOihqOOBl+OAgeijgeWIpOaJgOOBq+ihneaSg+OBjOi1sOOCi+OAguWPo+OCkumWieOBluOBmeODmeODoOOBq+S6uuOAheOBruWlveWlh+OBruimlue3muOBjOeqgeOBjeWIuuOBleOCi+OAguOBneOCk+OBquS4reODmeODqeOBr+ODj+OCpOOCueOCr+ODvOODq+OBruWPi+S6uuOBn+OBoeOBq+WRvOOBs+WHuuOBleOCjOOCi+OAguOBvuOBn+OAgeODmeODreOBr+iHquWIhuOCkuOBpOOBkeeLmeOBhuW9seeUt+OBqOa/gOOBl+OBj+S6pOaIpuOBl+OBpuOBhOOBn+OAgjxicj48YnI+44OZ44OgOuWwj+ilvwogICAg5YWL5bm477yP44OZ44OpOk3vvaVB772lT++8j+ODmeODrTrlsI/ph44g6LOi56ug77yP44K944OL44Ki44O744K144Oe44O844K6OuWGheeUsCDnnJ/npLzvvI/jgrjjg6fjgqjjg6vjg7vjgqbjg4Pjgro65LmD5p2RIOWBpeasoe+8j+ODreODh+OCo+ODu+OCpuOCqeODvOOCq+ODvDropb/lsbEg5a6P5aSq5pyX77yP44OA44Oq44Or44O744OW44Op44Kk44K944OzOuaWieiXpAogICAg5aOu6aas77yPRHIu44Oq44K144Kk44Kv44OrOuirj+ioqumDqCDpoIbkuIDvvI/jg5jjg6vjg6Djg7zjg4jjg7vjg5Xjgqfjg6vjg4g65bCP6YeOIOWkp+i8lO+8j+isjuOBruWlszrlnYLmnKwg55yf57a+IOOAgOOBu+OBizxicj48YnI+5Y6f5L2cOu+8oe+8pO+8q+OCqOODouODvOOCt+ODp+ODs+OCuu+8j+S8geeUuzrvvK7vvKHvvLPvvI/jg5fjg63jgrjjgqfjgq/jg4jljZTlips6UHJvZHVjdGlvbgogICAgSS5H77yP55uj552jOuWwj+mrmCDnvqnopo/vvI/jgrfjg6rjg7zjgrrmp4vmiJA65Yao5bKhIOa3s+W6g++8j+OCreODo+ODqeOCr+OCv+ODvOWOn+ahiDrmnZHnlLAg6JOu54i+77yP44Kt44Oj44Op44Kv44K/44O844OH44K244Kk44OzOuegguW3nSDmraPlkozvvI/nvo7ooZPnm6PnnaM65piO55+zIOiBluWtkO+8j+iJsuW9qeioreioiDrkvZDjgIXmnKgKICAgIOmbheS6uu+8j0NH44OH44Kj44Os44Kv44K/44O8Ouejr+mDqCDlhbzlo6vvvI/mkq7lvbHnm6PnnaM65p6XIOOCs+ODvOOCuOODreODvO+8j+e3qOmbhjrkuLkg5b2p5a2Q77yP6Z+z6Z+/55uj552jOuS6gOWxsSDkv4rmqLnvvI/pn7Pmpb06U09JTCZhbXA7IlBJTVAiU0VTU0lPTlPjg7vmnKrnn6XnkaDvvI/pn7Pmpb3liLbkvZw644OV44Op44Kk44Oz44Kw44OJ44OD44Kw77yP44Ki44OL44Oh44O844K344On44Oz5Yi25L2cOuODqeODs+ODieODg+OCr+ODu+OCueOCv+OCuOOCqjxicj48YnI+4pK4QURLCiAgICBFTe+8j0JFTeijveS9nOWnlOWToeS8miA8YnI+PGJyPnNvMzU3NTExMzHihpDliY3oqbHvvZzmrKHoqbHihpJzbzM1NzkzODIy44CA56ys5LiA6Kmx4oaSc28zNTM4ODc0NwogIGxlbmd0aF9zZWNvbmRzOiAxNDM0CiAgY29udGVudF9pZDogc28zNTc2MzY4MgogIGRlZmF1bHRfdGhyZWFkX2lkOiAxNTcwMDY3NTkyCiAgY2hhbm5lbF9pZDogMjYzMjcyMAogIHRodW1ibmFpbF91cmw6IGh0dHBzOi8vbmljb3ZpZGVvLmNkbi5uaW1nLmpwL3RodW1ibmFpbHMvMzU3NjM2ODIvMzU3NjM2ODIuNzk3NDgxNjgK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMTPoqbEKICB0aXRsZTog54Sh6IO944Gu54Sh5Y+MCiAgZGVzY3JpcHRpb246IOWls+mtlOS6uuaXj+ODu+OCq+ODiOODrOOCouOBq+iLpuaIpuOBmeOCi+mmmee5lOOBn+OBoeOBruWJjeOBq+Wnv+OCkuePvuOBl+OBn+eZvemrquecvOW4r+OBruWwkeW5tOOAguOBneOCjOOBr+OBi+OBpOOBpui/t+WuruOBruWliOiQveOBq+iQveOBoeOBpuatu+OCk+OBoOOBqOaAneOCj+OCjOOBpuOBhOOBn+OCr+ODqeOCueODoeOCpOODiOODu+WNl+mbsuODj+OCuOODoeOBoOOBo+OBn+OAguOBneOCjOOBnuOCjOOBruOCr+ODqeOCueODoeOCpOODiOOBjOOBleOBvuOBluOBvuOBquaEn+aDheOCkuaKseOBj+OBquOBi+OAgeOBi+OBpOOBpueEoeiDveOBrueDmeWNsOOCkuaKvOOBleOCjOOBn+ODj+OCuOODoeOBjOWcp+WAkueahOOBquWKm+OBp+mtlOeJqeOBn+OBoeOCkui5gui6meOBl+OBpuOBhOOBj+KAleKAleOAgjxicj48YnI+5Y2X6Zuy44OP44K444OhOua3seeUuuWvv+aIkO+8j+ODpuOCqDrmoZHljp/nlLHmsJfvvI/jgrfjgqLjg7vjg4/jgqbjg6rjgqI66auY5qmL5pyq5aWI576O77yP44OG44Kj44Kq44O744Kv44Op44Or44K5OuaXpeesoOmZveWtkO+8j+eZveW0jummmee5lDrlpKfopb/mspnnuZTvvI/lhavph43mqKvpm6s66Iqx5a6I44KG44G/44KK77yP5aSp5LmL5rKz5YWJ6LydOuafv+WOn+W+ueS5n++8j+eVkeWxseaEm+WtkDrliqDpmojkupzooaM8YnI+PGJyPuWOn+S9nDrnmb3nsbPoia/vvIjjgqrjg7zjg5Djg7zjg6njg4Pjg5fmlofluqvliIrvvInvvI/jgqTjg6njgrnjg4g644Gf44GL44KES2nvvI/nm6PnnaM644KI44GX44KC44Go44GN44KT44GY77yP44K344Oq44O844K65qeL5oiQ44O76ISa5pysOuS9kOiXpOWLneS4gOODu+KAu+acrOaso+WPuO+8iOKAu+OAjOWcn+OAjeOBjOS4iuOBruOAjOWQieOAje+8ie+8j+OCreODo+ODqeOCr+OCv+ODvOODh+OCtuOCpOODs+ODu+e3j+S9nOeUu+ebo+edozrlsI/ls7bmmbrliqDvvI/pn7Pmpb066auY5qmL6KuS77yP44Ki44OL44Oh44O844K344On44Oz5Yi25L2cOmFzcmVhZC7Dl1dISVRFCiAgICBGT1g8YnI+PGJyPsKp55m957Gz6Imv44O744Kq44O844OQ44O844Op44OD44OXL+OBguOCiuOBteOCjOOBn+ijveS9nOWnlOWToeS8mjxicj48YnI+c28zNTc1MTEyOeKGkOWJjeipseOAgOesrOS4gOipseKGknNvMzUzNTY0OTUKICBsZW5ndGhfc2Vjb25kczogMTQxNQogIGNvbnRlbnRfaWQ6IHNvMzU3ODIwMjYKICBkZWZhdWx0X3RocmVhZF9pZDogMTU3MDQxMDQ4MwogIGNoYW5uZWxfaWQ6IDI2MzI3MjAKICB0aHVtYm5haWxfdXJsOiBodHRwczovL25pY292aWRlby5jZG4ubmltZy5qcC90aHVtYm5haWxzLzM1NzgyMDI2LzM1NzgyMDI2LjQyMTk3NTU2Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog44Oa44O844K4MTAzCiAgdGl0bGU6IOWboOaenOino+aUvgogIGRlc2NyaXB0aW9uOiDjgqjjg6vjg5Xjga7msJHjgbjjgajou6LnlJ/jgZfjgZ/igJzntKvoi5Hjga7pr7HvvIjjgZfjgYrjgpPjgIDjga7jgIDjgZfjgoPjgaHvvInigJ3lm6Pjga7lm6Plk6HjgYzkvb/jgYbigJzmr5LojYnprZTms5XvvIjjganjgY/jgZ3jgYbjgIDjgb7jgbvjgYbvvInigJ3jga7mr5Ljgavoi6bjgZfjgoDjgqrjg6vjgrjjgoTmnZHkurrjgZ/jgaHjgILkvZXjgajjgYvjgZfjgabjgb/jgpPjgarjgpLmlZHjgYTjgZ/jgYTjgqLjgrnjgr/jgajjg6bjg47jgaDjgYzjgIHprZTms5XjgpLop6PjgY/mlrnms5XjgYzopovjgaTjgYvjgonjgarjgYTjgILjgZ3jgpPjgarkuK3jgIHmta7pgYrprZTlrq7vvIjjgbXjgobjgYbjg4Djg7Pjgrjjg6fjg7PvvInjgafjga7miKbjgYTjga7mnIDkuK3jgIHjgqjjg6vjg5Xml4/jga7plbfjg7vjg6rjg5Ljg4jjgYzluorjgYvjgonlvJXjgY3mipzjgYTjgZ/liaPjgYzjgqLjgrnjgr/jga7prZTlsI7mm7jvvIjjgrDjg6rjg6Ljg6/jg7zjg6vvvInjgYvjgonnj77jgozjgovjgILmgJ3jgo/jgZrmiYvjgavlj5bjgovjgqLjgrnjgr/jgaDjgYzjgIHliaPjgavjga/nsKHljZjjgavjga/liLblvqHjgafjgY3jgarjgYTjgbvjganjga7lvLfjgYTlipvjgYzlrr/jgaPjgabjgYTjgZ/jgILpqZrjgY3miLjmg5HjgYbjgqLjgrnjgr/jgaDjgaPjgZ/jgYzjgIHoqabjgZfjgavliaPjgpLjgqrjg6vjgrjjgavnqoHjgY3nq4vjgabjgovjgajigJXigJUhPzxicj48YnI+44Ki44K544K/OuaituWOnwogICAg5bKz5Lq677yP44Om44OOOuWztu+okSDkv6HplbfvvI/jg47jgqjjg6s65YSq5pyoIOOBi+OBqu+8j+ODpOODnzroq4/oqKrpg6gg6aCG5LiA77yP44OV44Kj44Oz44Op44OrOuemj+WxsSDmvaTvvI/jg57jgrDjg4o65a6kIOWFg+awl++8j+ODqeODg+OCrzrmnZHngKzjgIDmranvvI/jgrTjg7zjgrfjg6U65pel6YeOIOiBoe+8j+ODkOODjeODg+OCtTrmsLTmqLkKICAgIOWliOOAhe+8j+ODgeODo+ODvOODn+ODvDrlronph44g5biM5LiW5LmD77yP44K044O844OJ44OzOuadvueUsCDlgaXkuIDpg47vvI/jg6bjg6rjgqbjgrk65qOu5bedIOaZuuS5izxicj48YnI+5Y6f5L2cOueUsOeVoCDoo5Xln7rvvIjjgIzpgLHliIrlsJHlubTjgrjjg6Pjg7Pjg5fjgI3pgKPovInvvInvvI/nm6PnnaM65ZCJ5Y6fIOmBlOefou+8j+OCt+ODquODvOOCuuani+aIkDrnrYblrokKICAgIOS4gOW5uO+8j+OCreODo+ODqeOCr+OCv+ODvOODh+OCtuOCpOODszrnq7nnlLAg6YC45a2Q77yP44K144OW44Kt44Oj44Op44Kv44K/44O844OH44K244Kk44OzOuW+s+awuCDkuYXnvo7lrZDvvI/jg5fjg63jg4Pjg5fjg4fjgrbjgqTjg7M66auZ5qmLIOaBkuaYn++8j+e+juihk+ebo+edozrliY3nlLDjgIDmnInntIDvvI/mkq7lvbHnm6PnnaM65ZyL5LqVIOaZuuihjO+8j+iJsuW9qeioreioiDrnr6Dljp8KICAgIOaEm+WtkO+8j+e3qOmbhjrlpaXnlLAg5rWp5Y+y77yP6Z+z5qW9OumWoiDnvo7lpYjlrZDvvI/pn7Ppn7/nm6PnnaM66auZ5qGRIOS4gO+8j+OCouODi+ODoeODvOOCt+ODp+ODs+WItuS9nDpzdHVkaW/jgbTjgYjjgo3vvI/jgqrjg7zjg5fjg4vjg7PjgrDjg4bjg7zjg5465oSf6Kaa44OU44Ko44Ot44CM44OP44Or44Kr44Of44Op44Kk44CN77yP44Ko44Oz44OH44Kj44Oz44Kw44OG44O844OeOuOCpOODiOODsuOCq+OCt+OAjOiSvOOBhOeCjuOAje+8j+ijveS9nDrjg5bjg6njg4Pjgq/jgq/jg63jg7zjg5Djg7zoo73kvZzlp5Tlk6HkvJo8YnI+PGJyPsKp55Sw55Wg6KOV5Z+677yP6ZuG6Iux56S+44O744OG44Os44OT5p2x5Lqs44O744OW44Op44OD44Kv44Kv44Ot44O844OQ44O86KO95L2c5aeU5ZOh5LyaPGJyPjxicj5zbzM1NzM2NjQz4oaQ5YmN6Kmx772c5qyh6Kmx4oaSc28zNTc4NjE0M+OAgOesrOS4gOipseKGknNvMzQ4NTI2NDEKICBsZW5ndGhfc2Vjb25kczogMTQzMAogIGNvbnRlbnRfaWQ6IHNvMzU3NTU0MTYKICBkZWZhdWx0X3RocmVhZF9pZDogMTU2OTg5MzM0MgogIGNoYW5uZWxfaWQ6IDI2MzI3MjAKICB0aHVtYm5haWxfdXJsOiBodHRwczovL25pY292aWRlby5jZG4ubmltZy5qcC90aHVtYm5haWxzLzM1NzU1NDE2LzM1NzU1NDE2LjU0MDQwNTc0Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="2" type="4">
         <text>- !ruby/hash:Hashie::Mash
   title: 蒼き流星SPTレイズナー
   first_episode_url: http://www.nicovideo.jp/watch/so35566026
@@ -607,12 +610,6 @@
   title: アフリカのサラリーマン
   first_episode_url: http://www.nicovideo.jp/watch/so35768334
 - !ruby/hash:Hashie::Mash
-  title: 失われた未来を求めて
-  first_episode_url: http://www.nicovideo.jp/watch/so35627794
-- !ruby/hash:Hashie::Mash
-  title: 18if
-  first_episode_url: http://www.nicovideo.jp/watch/so35627807
-- !ruby/hash:Hashie::Mash
   title: XL上司。【通常版】
   first_episode_url: http://www.nicovideo.jp/watch/so35759519
 - !ruby/hash:Hashie::Mash
@@ -624,9 +621,6 @@
 - !ruby/hash:Hashie::Mash
   title: 神田川JET GIRLS
   first_episode_url: http://www.nicovideo.jp/watch/so35782869
-- !ruby/hash:Hashie::Mash
-  title: ガリレイドンナ
-  first_episode_url: http://www.nicovideo.jp/watch/so35602560
 - !ruby/hash:Hashie::Mash
   title: 機甲界ガリアン
   first_episode_url: http://www.nicovideo.jp/watch/so35569211
@@ -642,9 +636,6 @@
 - !ruby/hash:Hashie::Mash
   title: 警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-
   first_episode_url: http://www.nicovideo.jp/watch/so35763684
-- !ruby/hash:Hashie::Mash
-  title: さんかれあ
-  first_episode_url: http://www.nicovideo.jp/watch/so35697944
 - !ruby/hash:Hashie::Mash
   title: 慎重勇者～この勇者が俺ＴＵＥＥＥくせに慎重すぎる～
   first_episode_url: http://www.nicovideo.jp/watch/so35759515
@@ -670,18 +661,6 @@
   title: 伝説の勇者ダ・ガーン
   first_episode_url: http://www.nicovideo.jp/watch/so35569640
 - !ruby/hash:Hashie::Mash
-  title: 奴隷区The Animation
-  first_episode_url: http://www.nicovideo.jp/watch/so35736681
-- !ruby/hash:Hashie::Mash
-  title: 夏目友人帳 伍　特別編２　遊戯の宴
-  first_episode_url: http://www.nicovideo.jp/watch/so35737226
-- !ruby/hash:Hashie::Mash
-  title: 夏目友人帳 陸　特別編１　鈴鳴るの切り株
-  first_episode_url: http://www.nicovideo.jp/watch/so35737186
-- !ruby/hash:Hashie::Mash
-  title: 夏目友人帳 陸　特別編２　夢幻のかけら
-  first_episode_url: http://www.nicovideo.jp/watch/so35737151
-- !ruby/hash:Hashie::Mash
   title: 七つの大罪 神々の逆鱗
   first_episode_url: http://www.nicovideo.jp/watch/so35786157
 - !ruby/hash:Hashie::Mash
@@ -694,9 +673,6 @@
   title: 戦×恋（ヴァルラヴ）～イチャイチャ副音声Ver.～
   first_episode_url: http://www.nicovideo.jp/watch/so35786149
 - !ruby/hash:Hashie::Mash
-  title: ひだまりスケッチ×SP
-  first_episode_url: http://www.nicovideo.jp/watch/so35737117
-- !ruby/hash:Hashie::Mash
   title: ファンタシースターオンライン2 エピソード・オラクル
   first_episode_url: http://www.nicovideo.jp/watch/so35755425
 - !ruby/hash:Hashie::Mash
@@ -706,23 +682,11 @@
   title: 星合の空
   first_episode_url: http://www.nicovideo.jp/watch/so35790013
 - !ruby/hash:Hashie::Mash
-  title: 本好きの下剋上 司書になるためには手段を選んでいられません
-  first_episode_url: http://www.nicovideo.jp/watch/so35759517
-- !ruby/hash:Hashie::Mash
   title: ぼくたちは勉強ができない！
   first_episode_url: http://www.nicovideo.jp/watch/so35763685
 - !ruby/hash:Hashie::Mash
   title: 魔動王グランゾート
   first_episode_url: http://www.nicovideo.jp/watch/so35569344
-- !ruby/hash:Hashie::Mash
-  title: 闇芝居 七期
-  first_episode_url: http://www.nicovideo.jp/watch/so35736678
-- !ruby/hash:Hashie::Mash
-  title: 劇場版『遊☆戯☆王 THE DARK SIDE OF DIMENSIONS』
-  first_episode_url: http://www.nicovideo.jp/watch/so35751863
-- !ruby/hash:Hashie::Mash
-  title: 遊☆戯☆王ARC-Ⅴ
-  first_episode_url: http://www.nicovideo.jp/watch/so35736700
 - !ruby/hash:Hashie::Mash
   title: 勇者エクスカイザー
   first_episode_url: http://www.nicovideo.jp/watch/so35567028
@@ -736,23 +700,35 @@
   title: 勇者特急マイトガイン
   first_episode_url: http://www.nicovideo.jp/watch/so35569945</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ys5Y2B5LiJ6KmxCiAgdGl0bGU6IOOCueODvOODkeODvOODjuODtOOCoQogIGRlc2NyaXB0aW9uOiDpnanlkb3lvozjgIHlsJHjgZfjgZrjgaTmmI7jgovjgYTpm7Dlm7LmsJfjgavlpInjgo/jgorlp4vjgoHjgZ/lpKLjg47lkrLlrabpmaLjgILjgI7mtYHmmJ/pmorjgI/jga7lrojmsqLljYPnp4vjga/jgIHjg5Ljg7zjg63jg7zjgrfjg6fjgqbjga7jg6njgqTjg5bjgJDjgrnjg7zjg5Hjg7zjg47jg7TjgqHjgJHjgpLoqIjnlLvjgZnjgovjgILjgZfjgYvjgZfnlJ/lvpLkvJrplbfjga7lpKnnpaXpmaLoi7Hmmbrjgavjga/ljZjjgarjgovjgIzjg5Ljg7zjg63jg7zjgZTjgaPjgZPjgavlh7ros4fjga/jgafjgY3jgarjgYTjgI3jgajjgIHnlJ/lvpLkvJrjga7lvozmj7TjgpLmlq3jgonjgozjgabjgZfjgb7jgYbjgILljYPnp4vjga/jgYLjgpPjgZrjgavnm7joq4fjgZfkvIHnlLvjga7nt7Tjgornm7TjgZfjgpLjgZnjgovjgZPjgajjgafnlJ/lvpLkvJrjga7lr6nmn7vjgpLpgJrjgZfjgIHjgb7jgZ/jgI7mtYHmmJ/pmorjgI/jga7jg6Hjg7Pjg5Djg7zjgZ/jgaHjgoLjg6zjg4Pjgrnjg7PjgpLph43jga3jgabjgYTjgY/jgILjgZ3jgZfjgabmnKznlarlvZPml6XjgIHlvbzjgonjga/jgZ3jgozjgZ7jgozjga7kv6Hlv7XjgoTmg7PjgYTjgpLog7jjgavpgYrlnJLlnLDjgrnjg4bjg7zjgrjjgbjjgajlkJHjgYvjgYbjga7jgaDjgYzigKbigKbjgII8YnI+PGJyPuawt+m3ueWMl+aWlzrliY3ph47mmbrmmK3vvI/mmI7mmJ/jgrnjg5Djg6s65p+/5Y6f5b655Lmf77yP6YGK5pyoCiAgICDnnJ865qOu5LmF5L+d56Wl5aSq6YOO77yP6KGj5pu055yf57eSOuaitiDoo5XosrTvvI/lpKnnpaXpmaLoi7Hmmbo657eR5bedIOWFie+8j+aXpeOAheaouSDmuIk65rGf5Y+j5ouT5Lmf77yP5aer5a6u5qGD5p2OOuadkeeArCDmranvvI/kvI/opovlvJPlvKY65qmL5pys5pmD5aSq5pyX77yP6JOu5bez5pWs5Lq6OuaiheWOn+ijleS4gOmDju+8j+msvOm+jee0hemDjjrnpZ7lsL7mmYvkuIDpg47vvI/npZ7ltI7poq/ppqw656We5rC45Zyt5L2R77yP5pyU6ZaTCiAgICDpm7Y65aKX55Sw5L+K5qi577yP57696aKoIOiWqzrntLDosp0g5Zyt77yP5aSn56We5pmD54mZOuWwj+mHjuWPi+aoue+8j+S5meeLqeOCouODieODi+OCuTrnvr3lpJrph44g5riJ77yP5pyI5rC444Os44KqOua1heayvOaZi+WkqumDju+8j+eArOWQjSDms4k65LyK6Jek44Oe44K144Of77yP5pyU6ZaT5Yeb5pyIOuWxseS4i+Wkp+i8ne+8j+mztOS4iiDltZA65YyX5p2RCiAgICDoq5LvvI/mnLHmoZwg5Y+4OuWcn+eUsOeOsuWkru+8j+WuiOayouWNg+enizrluIbkuJbpm4TkuIDvvI/mt7HmtbflpY/msbA66KW/5bGx5a6P5aSq5pyX77yP5Y2X6Zuy6YmE6JmOOuS4reWztuODqOOCt+OCre+8j+mrmOWzryDnv6A65rih6L665ouT5rW377yP5LuZ55+zIOW/jTrmlrDnlLDmnY/mqLnvvI/ku4HlhY7jgarjgZrjgao657Gz5YaF5L2R5biM77yP5aSp5rqACiAgICDlhYk65rGg55Sw57SU55+i77yP55yf55m95Y+L5LmfOuavlOeVmemWk+S/iuWTie+8j+e0q+S5iyDlibU66auY5Z2C55+l5Lmf77yP6JG1IOOBsuOBquOBn++8huiRtSDjgobjgYbjgZ865paJ6Jek5aOu6aas77yP5paO5a6uIOWulzrpq5jmqYvluoPmqLnvvI/lvbHniYfjgb/jgYs65aSn6aCI6LOAIOe0lO+8j+mAhuWFiOWkj+ebrjrph47ls7blgaXlhZDvvI/pnZLokYnjgaTjgoDjgY4655+z5bed55WM5Lq677yP5pil5bedCiAgICDlrpk65bGx5pys5ZKM6Iej77yP5LiJ5q+b57ieIOaWkTrps6XmtbfmtanovJTvvI/kubEg5Yeq56CCOuirj+ioqumDqOmghuS4gO+8j+W3tCDml6Xlkow66Iqx5rGf5aSP5qi577yP5LiD56iuIOiMqDrpgKLlnYLoia/lpKrvvI/mvKMg44K444Ol44OzOuWGheeUsOmbhOmmrO+8j+S9kOizgOe+jiDpmaM65qiL5p+05pm65bq377yP5qSaIOeroOiHozrpp5LnlLAKICAgIOiIqu+8j+OBguOCk+OBmjrlnYLmnKznnJ/ntr48YnI+PGJyPuWOn+S9nDpIYXBweSBFbGVtZW50c++8iOOCq+OCq+ODquOCouOCueOCv+OCuOOCqu+8ie+8j+ebo+edozroj7HnlLDmraPlkozvvI/jgrfjg6rjg7zjgrrjg4fjgqPjg6zjgq/jgr/jg7w644K944Ko44K444Oe44Ok44K544OV44Of77yP44K344Oq44O844K65qeL5oiQOuaXpeaXpeaXpe+8j+ODgeODvOODleODqeOCpOOCv+ODvDrnjKrniKrmhY7kuIDvvI/jgq3jg6Pjg6njgq/jgr/jg7zljp/moYg6SGFwcHkKICAgIEVsZW1lbnRz77yI44Kr44Kr44Oq44Ki44K544K/44K444Kq77yJ77yP44Kt44Oj44Op44Kv44K/44O844OH44K244Kk44OzOumjr+WhmuaZtOWtkOODu+S4i+iwt+aZuuS5i+ODu+mVt+eUsOe1temHjO+8j+e+juihk+ebo+edozrlsbHmoLnlt6bluIbvvI/oibLlvanoqK3oqIg66Yi05pyo5L6d6YeM77yPM++8pOebo+edozrml6XkuIvlpKfovJTvvI/mkq7lvbHnm6PnnaM65LiK5qKd5pm65Lmf77yP57eo6ZuGOumVt+iwt+W3nQogICAg6Iie77yP6Z+z5qW944OX44Ot44OH44Ol44O844K144O8OuahkeWOnyDogZbvvI/pn7Pmpb065Yqg6Jek6YGU5Lmf77yP6Z+z6Z+/55uj552jOua/semHjumrmOW5tO+8j+OCouODi+ODoeODvOOCt+ODp+ODs+WItuS9nDpkYXZpZCBwcm9kdWN0aW9uPGJyPjxicj7CqUhhcHB5IEVsZW1lbnRzCiAgICBLLkvvvI/jgYLjgpPjgrnjgr/vvIHjgqLjg4vjg6Hoo73kvZzlp5Tlk6HkvJo8YnI+PGJyPnNvMzU3NTk1MTPihpDliY3oqbHvvZzmrKHoqbHihpJzbzM1Nzk3Nzg444CA56ys5LiA6Kmx4oaSc28zNTM3NjE2NQogIGxlbmd0aF9zZWNvbmRzOiAxNDQyCiAgY29udGVudF9pZDogc28zNTc4OTk3MAogIGRlZmF1bHRfdGhyZWFkX2lkOiAxNTcwNTgzNDYzCiAgY2hhbm5lbF9pZDogMjYzMjcyMAogIHRodW1ibmFpbF91cmw6IGh0dHBzOi8vbmljb3ZpZGVvLmNkbi5uaW1nLmpwL3RodW1ibmFpbHMvMzU3OTQ3NjYvMzU3OTQ3NjYuNzE0NzExMTMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysNzjoqbEKICB0aXRsZTog54eD44GI44KN6b6N5LqM77yB44OH44K544OQ44Kk44ON44Oz44Gu5oGQ5oCWCiAgZGVzY3JpcHRpb246IOS4ieWbnuaIpuOBjOe1guS6huOBl+OAgeOBvuOBn+OBvuOBn+iKseiNieWVhuW6l+ihl+OBp+elneWLneODkeODvOODhuOCo+ODvOOCkuOChOOCi+OBk+OBqOOBq+OBquOBo+OBn+OCv+OCpOOCrOOBn+OBoeOAguS7iuWbnuOBr+OCv+OCpOOCrOOBruaAneOBhOOBpOOBjeOBp+OAgeODnuODhOODj+ODqeODl+ODreOBqOm+jeS6jOOBruS4oeimquOCkua6kOOBleOCk+OBruW6l+OBq+aLm+W+heOBmeOCi+OAguOBhOOBpOOCguecn+mdouebruOBquadvuWOn+S4gOWutuOBoOOBjOOAgeWVhuW6l+ihl+OBrumdouOAheOBruizkeOChOOBi+OBleOBq+W3u+OBjei+vOOBvuOCjOOBpualveOBl+OBhOOBsuOBqOOBqOOBjeOCkumBjuOBlOOBmeOBruOBoOOBo+OBn+OAguOBneOBl+OBpum+jeS6jOOBr+S4oeimquOBq+OAgeiHquWIhuOBruasoeOBruippuWQiOOCkuimi+OBq+adpeOBpuOBu+OBl+OBhOOBqOmgvOOCgOOAgum+jeS6jOOBruWbm+WbnuaIpuOBruebuOaJi+OBr+OAgeS4jeawl+WRs+OBquODl+ODreODgeODvOODoOOAjkRHU+OAj+OBruODh+OCueODkOOCpOODjeODs+OBp+KApuKApuOAgjxicj48YnI+5piO55+z44K/44Kk44KsOuaziuOAgOaYjuaXpeiPnO+8j+ODiOODqeOCtOODszrmn7/ljp/jgIDlvrnkuZ/vvI/lja/mnIjjgZXjgY/jgok65LqV5LiK44CA44G744Gu6Iqx77yP5p2+5Y6f6b6N5LqMCiAgICA65bCP5p6X44CA6KOV5LuL77yP5b6z5rKi6Kut5ZCJOuelnuS7o+OAgOefpeihozxicj48YnI+5Y6f5L2cOuOCrOODs+ODm+ODvOODu+OCquODs+ODqeOCpOODs+ODu+OCqOODs+OCv+ODvOODhuOCpOODoeODs+ODiOOAjOODkeOCuuODq++8huODieODqeOCtOODs+OCuuOAje+8j+WOn+ahiDrmo67kuIvkuIDllpzvvI/mvKvnlLvljp/kvZw65LqV5LiK5qGD5aSq77yI5bCP5a2m6aSo44CM5pyI5YiK44Kz44Ot44Kz44Ot44Kz44Of44OD44Kv44CN77yJ77yP55uj552jOuS6gOWeowogICAg5LiA77yP44K344Oq44O844K65qeL5oiQOuiXpOeUsOS8uOS4ie+8j+mfs+alvTrlkoznlLAg6Jar77yP44Ki44OL44Oh44O844K344On44Oz5Yi25L2cOnN0dWRpb+OBtOOBiOOCjTxicj48YnI+wqnjgqzjg7Pjg5vjg7zjg7vjgqrjg7Pjg6njgqTjg7Pjg7vjgqjjg7Pjgr/jg7zjg4bjgqTjg6Hjg7Pjg4jvvI/jg5Hjgrrjg4njg6njg5fjg63jgrjjgqfjgq/jg4gyMDE544O744OG44Os44OT5p2x5LqsPGJyPjxicj5zbzM1NzA1ODQz4oaQ5YmN6Kmx772c5qyh6Kmx4oaSc28zNTc4NjE1M+OAgOesrOS4gOipseKGknNvMzQ4OTY4MjYKICBsZW5ndGhfc2Vjb25kczogMTQzNQogIGNvbnRlbnRfaWQ6IHNvMzU3NTU0MTkKICBkZWZhdWx0X3RocmVhZF9pZDogMTU2OTg5MzQxMAogIGNoYW5uZWxfaWQ6IDI2MzI3MjAKICB0aHVtYm5haWxfdXJsOiBodHRwczovL25pY292aWRlby5jZG4ubmltZy5qcC90aHVtYm5haWxzLzM1NzU1NDE5LzM1NzU1NDE5LjYyNjk5ODE2Ci0gIXJ1YnkvaGFzaDpFcGlzb2RlSGFzaAogIGVwaXNvZGVfbm86IOesrDc56KmxCiAgdGl0bGU6IOWboOe4geOBruWvvuaxuu+8geOCv+OCpOOCrO+8tu+8s+OCt+ODswogIGRlc2NyaXB0aW9uOiDjg4Hjg6Pjg7Pjg5Tjgqrjg7Pjgrrjgqvjg4Pjg5flm5vlm57miKbjgYzntprjgY/lpKfkvJrkvJrloLTjgILjg57jg4Tjg4/jg6njgoTjgbvjga7jgYvjgIHjgI7mlrDprq7ntYTjgI/jga7li4fvvIjjgYTjgZXjgb/vvInjgarjganjgYzlloTmiKbjgZnjgovkuK3jgIHjgI5ER1PjgI/jga7jg5bjg6njg4Pjgq/jg63jg7zjgrrjga/lrp/lipvjgYzmuKzjgorjgY3jgozjgarjgYTjg5/jgrnjg4bjg6rjgqLjgrnjgarjg5Djg4jjg6vjgpLjgZnjgovjgILjgZ3jgZfjgabjgr/jgqTjgqzjga/jgaTjgYTjgavjgIHjg4Hjg6Pjg6zjg7Pjgrjjgqvjg4Pjg5fjgafmv4Dpl5jjgpLnubDjgorluoPjgZLjgZ/npZ7ltI7jgrfjg7Pjgajlr77msbrjgZnjgovjgZPjgajjgavjgILlho3jgbPjgrfjg7PjgajmiKbjgYjjgovjgZPjgajjgpLlrInjgZfjgY/mgJ3jgYbjgr/jgqTjgqzjgILjgZXjgY/jgonjgZ/jgaHjga/jgIHnpZ7ltI7jgrfjg7PjgYznm7jmiYvjga7lv4PjgavlhaXjgorjgZPjgoDlipvjgpLkvb/nlKjjgZnjgovjgYvjgajouqvmp4vjgYjjgovjgYzjgIHjgrfjg7Pjga7jg5Djg4jjg6vjgavjgZ3jga7lhYbjgZfjga/opovjgonjgozjgZrigKbigKbjgII8YnI+PGJyPuaYjuefs+OCv+OCpOOCrDrms4rjgIDmmI7ml6Xoj5zvvI/jg4jjg6njgrTjg7M65p+/5Y6f44CA5b655Lmf77yP5Y2v5pyI44GV44GP44KJOuS6leS4iuOAgOOBu+OBruiKse+8j+advuWOn+m+jeS6jAogICAgOuWwj+ael+OAgOijleS7i++8j+W+s+ayouirreWQiTrnpZ7ku6PjgIDnn6XooaM8YnI+PGJyPuWOn+S9nDrjgqzjg7Pjg5vjg7zjg7vjgqrjg7Pjg6njgqTjg7Pjg7vjgqjjg7Pjgr/jg7zjg4bjgqTjg6Hjg7Pjg4jjgIzjg5Hjgrrjg6vvvIbjg4njg6njgrTjg7PjgrrjgI3vvI/ljp/moYg65qOu5LiL5LiA5Zac77yP5ryr55S75Y6f5L2cOuS6leS4iuahg+Wkqu+8iOWwj+WtpumkqOOAjOaciOWIiuOCs+ODreOCs+ODreOCs+ODn+ODg+OCr+OAje+8ie+8j+ebo+edozrkuoDlnqMKICAgIOS4gO+8j+OCt+ODquODvOOCuuani+aIkDrol6TnlLDkvLjkuInvvI/pn7Pmpb065ZKM55SwIOiWq++8j+OCouODi+ODoeODvOOCt+ODp+ODs+WItuS9nDpzdHVkaW/jgbTjgYjjgo08YnI+PGJyPsKp44Ks44Oz44Ob44O844O744Kq44Oz44Op44Kk44Oz44O744Ko44Oz44K/44O844OG44Kk44Oh44Oz44OI77yP44OR44K644OJ44Op44OX44Ot44K444Kn44Kv44OIMjAxOeODu+ODhuODrOODk+adseS6rDxicj48YnI+c28zNTc1NTQxOeKGkOWJjeipseOAgOesrOS4gOipseKGknNvMzQ4OTY4MjYKICBsZW5ndGhfc2Vjb25kczogMTQzNQogIGNvbnRlbnRfaWQ6IHNvMzU3ODYxNTMKICBkZWZhdWx0X3RocmVhZF9pZDogMTU3MDQ5ODYyMwogIGNoYW5uZWxfaWQ6IDI2MzI3MjAKICB0aHVtYm5haWxfdXJsOiBodHRwczovL25pY292aWRlby5jZG4ubmltZy5qcC90aHVtYm5haWxzLzM1Nzg2MTUzLzM1Nzg2MTUzLjgzODQ5ODM5Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysNzjoqbEKICB0aXRsZTog44Kt44Op5a6/5aSn6aiS5YuV77yB77yf44OV44Kn44OL44OD44Kv44K55Luu6Z2i44GC44KJ44KP44KL77yf44Gg44KC44KT77yBCiAgZGVzY3JpcHRpb246ICfnqoHnhLbjgIHjg5fjg6rjgrrjg6Djgrnjg4jjg7zjg7PjgoTjg4fjgqPjgqLjgq/jg6njgqbjg7PjgYzngo7jga7jgojjgYbjgarjgq7jg6njgq7jg6njg4fjgrbjgqTjg7Pjgavmj4/jgY3mj5vjgYjjgonjgozjgabjgZfjgb7jgaPjgZ/jgILnlLrjgYzlpKfpqJLjgY7jgavjgarjgovkuK3jgIHniq/kurrjgajjgZfjgablkI3kuZfjgorjgafjgZ/jga7jga/jgIHjg57jgrnjgq/jgpLku5jjgZHjgZ/jg5Xjgqfjg4vjg4Pjgq/jgrnku67pnaLjgILjganjgYbjgoTjgonjgq3jg6nlrr/kuK3jgpLoh6rliIbjga7lpb3jgY3jgarjg4fjgrbjgqTjg7PjgavloZfjgormm7/jgYjjgZ/jgYTjgonjgZfjgYTjgILoqIjnlLvjgpLmraLjgoHjgovjgZ/jgoHjgIHov73jgYTjgYvjgZHjgabmjZXjgb7jgYjjgojjgYbjgajjgZnjgovjg5/jg6njgq/jg6vimIbjgq3jg6njg4Pjg4TjgIHjg6Hjg6vjg4bjgqPjg4Pjgq/jgrnjgr/jg7zjgIHjg6rjg7PjgrDjg57jg6rjgqPjgaDjgaPjgZ/jgYzigKbigKY8YnI+PGJyPuahg+WxseOBv+OCieOBhDrmnpcKICAgIOm8k+WtkO+8j+iQjOm7hOOBiOOCgjrkuYXkv53nlLDmnKrlpKLvvI/pnZLokYnjgorjgpPjgYs65Y6a5pyo6YKj5aWI576O77yP6LWk5Z+O44GC44KT44GqOuiKuea+pCDlhKrvvI/nt5Hlt53jgZXjgok66Iul5LqV5Y+L5biM77yP57Sr6Jek44KB44KLOuajruW2i+WEquiKse+8j+mHkeajruOBvuOCiuOBgjrojJzlsYvml6XmtbflpI/vvI/pu5Llt53jgZnjgZo65b6z5LqV6Z2S56m677yP44Gg44GE44GCOuS9kOOAheacqOadjuWtkOOAgOS7luOAgDxicj48YnI+5Y6f5L2cOuOCv+OCq+ODqeODiOODn+ODvOOCouODvOODhOOAgeOCt+ODs+OCveODleOCo+OCou+8j+ebo+edozrljZrlj7LmsaDnlaDvvI/liqnnm6PnnaM65bed54Cs44G+44GV44GK77yP44OB44O844OV44OH44Kj44Os44Kv44K/44O8OgogICAgUGFyayBDaGkgTWFu77yP44K344Oq44O844K65qeL5oiQOuWFtemgreS4gOatqe+8j+OCreODo+ODqeOCr+OCv+ODvOWOn+ahiDrmoqjmnKzoo5Xnvo7jgIHlhoXol6TmmbblrZDvvIjjgrfjg7Pjgr3jg5XjgqPjgqLvvInvvI/jgq3jg6Pjg6njgq/jgr/jg7zjg4fjgrbjgqTjg7M65rqA55Sw5LiA77yPQ0fjg4fjgqPjg6zjgq/jgr/jg7w65LmZ6YOo5ZaE5byY77yP6Z+z5qW9OuWKoOiXpOmBlOS5n++8j+mfs+mfv+ebo+edozrplbfltI7ooYznlLfvvI/jgqLjg4vjg6HigJXjgrfjg6fjg7PlhbHlkIzliLbkvZw644K/44OE44OO44Kz44OX44Ot44CARE9OR1dPTwogICAgQSZhbXA7RTxicj48YnI+wqkg77y077yN77yh77yy77y077yzIC8gc3luIFNvcGhpYSAvIOODhuODrOODk+adseS6rCAvIFBDSDLoo73kvZzlp5Tlk6HkvJo8YnI+PGJyPnNvMzU3NTU0MjTihpDliY3oqbHvvZzmrKHoqbHihpJzbzM1NzkzODEz44CA56ys5LiA6Kmx4oaSc28zMzAyNjE5MCcKICBsZW5ndGhfc2Vjb25kczogMTQ2MAogIGNvbnRlbnRfaWQ6IHNvMzU3ODYxNTYKICBkZWZhdWx0X3RocmVhZF9pZDogMTU3MDQ5ODQ0MwogIGNoYW5uZWxfaWQ6IDI2MzI3MjAKICB0aHVtYm5haWxfdXJsOiBodHRwczovL25pY292aWRlby5jZG4ubmltZy5qcC90aHVtYm5haWxzLzM1Nzg2MTU2LzM1Nzg2MTU2LjcxNTMzMTgwCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMjjoqbEKICB0aXRsZTog5q2i44G+44KT44Gt44GH44GL44KJ44GqCiAgZGVzY3JpcHRpb246IOe3tOe/kuippuWQiOOBp+WlveaIkOe4vuOCkuWPjuOCgeOAgeWkj+OBruWkp+S8muOBq+WQkeOBkeOBpue3tOe/kuOBq+eGseOBjOexoOOCguOCi+mdkumBk+ODiuOCpOODs+OAgueJh+WyoeOBruiogOiRieOBq+WIuua/gOOBleOCjOW8teOCiuWIh+OCi+ayouadkeOBr+OAgeaXqeacneOBi+OCieODmeODg+ODieOCkuaKnOOBkeWHuuOBl+a0u+WLleOCkuWni+OCgeOCi+OAguS4gOaWueOAgeayouadkeOBruWFheWun+OBtuOCiuOCkuebruOBruW9k+OBn+OCiuOBq+OBl+OBn+mZjeiwt+OCguOCt+ODvOODiOODkOODg+ODhuOCo+ODs+OCsOOBp+OCouODlOODvOODq+OBmeOCi+OAguS6jOS6uuOBruODqeOCpOODkOODq+mWouS/guOBjOOBiuS6kuOBhOOBq+OBhOOBhOW9semfv+OCkuOCguOBn+OCieOBl+OBpuOBhOOCi+OBi+OBq+imi+OBiOOBn+OAgeOBneOBruaZguKUgOKUgOOAgjxicj48YnI+5rKi5p2R5qCE57SUOumAouWdguiJr+Wkqu+8j+mZjeiwtwogICAg5pqBOuWztu+okeS/oemVt++8j+W+oeW5uOS4gOS5nzrmq7vkupXlrZ3lro/vvI/lpaXmnZHlhYnoiJ865YaF55Sw6ZuE6aas77yP5YCJ5oyB5rSL5LiAOua1heayvOaZi+WkqumDju+8j+Wwj+a5iuaYpeW4gjroirHmsZ/lpI/mqLnvvI/ntZDln47lsIblj7g65q2m5YaF6ae/6LyU77yP54Cs5oi45ouT6aasOuWxseS4i+Wkp+i8ne+8j+eUseS6lSDolqs65p2R54CsIOatqe+8j+a1heeUsOa1qeaWhzrnlaDkuK0KICAgIOelkDxicj48YnI+5Y6f5L2cOuWvuuW2i+ijleS6jOOAjOODgOOCpOODpOOBrkEgYWN04oWh44CN77yI6YCx5YiK5bCR5bm044Oe44Ks44K444Oz77yP6Kyb6KuH56S+5YiK77yJ77yP55uj552jOuWil+WOn+WFieW5uO+8j+OCt+ODquODvOOCuuani+aIkDrlj6TmgJLnlLDlgaXlv5fvvI/jgq3jg6Pjg6njgq/jgr/jg7zjg4fjgrbjgqTjg7M655Sw76iRCiAgICDogaHjgIHmpI3nlLAg5a6f77yP57eP5L2c55S755uj552jOuWwj+aelyDkuq7jgIHlkInlt53nnJ/kuIDvvI/jgqLjgq/jgrfjg6fjg7PkvZznlLvnm6PnnaM65L2Q6Jek6ZuE5LiJ44CB5Y2D5YWJ5aOr5rW355m744CB5oi45YCJ57SA5YWD77yP5Ymv55uj552jOuOBhOOCj+OBn+OBi+OBmuOChO+8j+e+juihk+ebo+edozrpq5jmnKjkvZDlkozlrZDvvI/oibLlvanoqK3oqIg65LuK6YeO5oiQ576O77yP5pKu5b2x55uj552jOuS6leS4iua0i+W/l++8j+e3qOmbhjrloZrluLjnnJ/nkIblrZDvvI/pn7Ppn7/nm6PnnaM66auZ5qGR5LiA77yP6Z+z5qW9OueZvuefswogICAg5YWD77yP44Ki44OL44Oh44O844K344On44Oz5Yi25L2cOk1BREhPVVNFPGJyPjxicj7CqeWvuuW2i+ijleS6jOODu+ism+irh+ekvu+8j+OAjOODgOOCpOODpOOBrkEgYWN04oWh44CN6KO95L2c5aeU5ZOh5Lya44O744OG44Os44OT5p2x5LqsPGJyPjxicj5zbzM1NzU1NDIy4oaQ5YmN6Kmx44CA56ys5LiA6Kmx4oaSc28zNDkwMjQzNAogIGxlbmd0aF9zZWNvbmRzOiAxNDYwCiAgY29udGVudF9pZDogc28zNTc4NjU2OQogIGRlZmF1bHRfdGhyZWFkX2lkOiAxNTcwNTEwNjI0CiAgY2hhbm5lbF9pZDogMjYzMjcyMAogIHRodW1ibmFpbF91cmw6IGh0dHBzOi8vbmljb3ZpZGVvLmNkbi5uaW1nLmpwL3RodW1ibmFpbHMvMzU3ODY1NjkvMzU3ODY1NjkuNjg2MDY3OTgK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMTToqbEKICB0aXRsZTogTUFTVEVS44CAT0bjgIBGTEFNRQogIGRlc2NyaXB0aW9uOiDjgaTjgYTjgavlp4vjgb7jgaPjgZ/mnZHjga7lvqHliY3oqablkIjjgILlhKrli53ogIXjgavmjK/jgovoiJ7jgo/jgozjgovphZLjgpLjgrLjg4Pjg4jjgZnjgovngrrjgIHlhavnmb7plbfoqablkIjjgpLoqIjnlLvjgZnjgovljYPnqbrjgZ/jgaHjgaDjgaPjgZ/jgYzjgIHjg4jjg7zjg4rjg6Hjg7Pjg4jjga/nrKzkuIDoqablkIjjgYvjgonms6LkubHjga7luZXplovjgZHjgILph5Hni7x2c+ODnuOCsOODnuOBruacgOW8t+WvvuaxuuOBqOOBquOBo+OBpuOBl+OBvuOBo+OBn++8geS7sumWk+OCkuaAneOBhuW8t+OBhOawl+aMgeOBoeOBp+OAgeODnuOCsOODnuOCkuWcp+WAkuOBmeOCi+mHkeeLvOOBoOOBjOOAgeODnuOCsOODnuOBqOODnuODs+ODiOODq+OBruWNkeaAr+OBquaJi+WPo+OBq+ODj+ODnuOBo+OBpuOBl+OBvuOBhuOAguOBneOBl+OBpuOAgeippuWQiOOBr+ODieODvOODlOODs+OCsOeWkeaDkeOBrumKgOeLvOOAgeODq+ODquOCkuaVkeOBhOOBn+OBhOOCr+ODreODoOOBuOOBqOmAsuOCgO+8gTxicj48YnI+5Y2D56m6OuWwj+ael+ijleS7i++8j+Wkp+acqOWkp+aouTrlj6Tlt53mhY7vvI/lsI/lt53mnaA65biC44OO54Cs5Yqg6YKj77yP542F5a2Q546L5Y+4OuS4readkeaCoOS4gO+8j+OCs+ODj+OCrzrmsrzlgInmhJvnvo7vvI/jgq/jg63jg6A65L2Q6JekCiAgICDlhYPvvI/ph5Hni7w65YmN6YeO5pm65pit77yP6YqA54u8OuadkeeArCDmranvvI/jg6vjg6o65LiK55Sw6bqX5aWI77yP44K544Kk44KrOumrmOapi+iKseael++8j+OBguOBleOBjuOCiuOCsuODszrmsrPopb/lgaXlkL7vvI/jgqvjgrvjgq066bqm5Lq6PGJyPjxicj7ljp/kvZw656iy5Z6j55CG5LiA6YOO44O7Qm9pY2hp77yI6ZuG6Iux56S+44CM6YCx5YiK5bCR5bm044K444Oj44Oz44OX44CN6YCj6LyJ77yJ77yP55uj552jOumjr+mHjuaFjuS5n++8j+OCt+ODquODvOOCuuani+aIkOODu+iEmuacrDrmnKjmiLjpm4TkuIDpg47vvI/jgq3jg6Pjg6njgq/jgr/jg7zjg4fjgrbjgqTjg7M65bKp5L2Q6KOV5a2Q77yP44OH44K244Kk44Oz44Ov44O844Kv44K5OuawtOadkeiJr+eUt++8j+ODoeOCpOODs+OCouODi+ODoeODvOOCv+ODvDrloIDlhoXljZrkuYvvvI/nvo7ooZPoqK3lrpo66Z2S5pyo5pm655Sx57SA77yP576O6KGT55uj552jOuWQieWOn+S/iuS4gOmDju+8j+iJsuW9qeioreioiDrkuK3lsL7nt4/lrZDvvI/mkq7lvbHnm6PnnaM66JGb5bGx5Ymb5aOr77yP57eo6ZuGOuWdguacrOS5hee+juWtkO+8j+mfs+mfv+ebo+edozrmmI7nlLDlt50KICAgIOS7ge+8j+mfs+alvTrliqDol6TpgZTkuZ/jg7vloKQg5Y2a5piO44O7WVVLSSBLQU5FU0FLQe+8j+OCouODi+ODoeODvOOCt+ODp+ODs+WItuS9nDrjg4jjg6Djgrnjg7vjgqjjg7Pjgr/jg4bjgqTjg7Pjg6Hjg7Pjg4g8YnI+PGJyPsKp57Gz44K544K/44K444Kq44O7Qm9pY2hp77yP6ZuG6Iux56S+44O7RHIuU1RPTkXoo73kvZzlp5Tlk6HkvJo8YnI+PGJyPnNvMzU3MzY2NDbihpDliY3oqbHvvZzmrKHoqbHihpJzbzM1NzkzODIz44CA56ys5LiA6Kmx4oaSc28zNTM1NjQ5NgogIGxlbmd0aF9zZWNvbmRzOiAxNDQwCiAgY29udGVudF9pZDogc28zNTc2MzY4MQogIGRlZmF1bHRfdGhyZWFkX2lkOiAxNTcwMDY3NTgzCiAgY2hhbm5lbF9pZDogMjYzMjcyMAogIHRodW1ibmFpbF91cmw6IGh0dHBzOi8vbmljb3ZpZGVvLmNkbi5uaW1nLmpwL3RodW1ibmFpbHMvMzU3NjM2ODEvMzU3NjM2ODEuNDg3MDI5NjYK</text>
+        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMTHoqbEKICB0aXRsZTog5L+h55So44Go5L+h6aC8CiAgZGVzY3JpcHRpb246IOOBpOOBhOOBq+Wni+OBvuOBo+OBn+i1pOm6l+aIpuOAguiSvOW1kOOBr+i1pOm6l+OBrueMm+aUu+OCkuWPl+OBkeOBquOBjOOCieOCguOAgemjn+OCieOBhOOBpOOBhOOBpuippuWQiOOBr+W+jOWNiuOBuOOAguOBl+OBi+OBl+OAgei1pOm6l+OBruWOs+OBl+OBhOaUu+OCgeOCkuWPl+OBkee2muOBkeOBn+mBpemmrOeQhuS5heOBjOWAkuOCjOOBpuOBl+OBvuOBhOOAgee1tuacm+OBmeOCi+iSvOW1kOmDqOWToeOAguOBneOBruaZguOAgeWuouW4reOBq+OBhOOCi+S4gOS6uuOBrueUt+OBjOeri+OBoeS4iuOBjOOCi+OAgjxicj48YnI+6YGl6aas55CG5LmFOumYquacrOWlqOaCn++8j+eLqeefogogICAg5YWJOktFTk7vvI/lrp3nq4vlj4vmnKo65YmN55Sw6Kqg5LqM77yP5Yas5Y6f54Gv5YipOuWvuuWztuaLk+evpO+8j+e/lOiwt+ODu+ODlOOCouODvOOCuuODu+ODtOOCoeODrOODs+OCv+OCpOODszrmo67ltovnp4DlpKrvvI/omK3loILmp43kuZ865aSp76iR5ruJ5bmz77yP5bCP54aK5pmv5aSqOumrmOapi+iLseWJh++8j+eBmCDoqqDkuIDpg4465Lit5bO244Oo44K344Kt77yP5pyJ5p2R5Yeb5paXOuWggOaxn+eerO+8j+Wkqeays+WwhuWQvjrnn7PosLfmmKXosrTvvI/niYfln47pm6rkuZ865rWm55Sw44KP44Gf44KL77yP6ae/5rKz5pqB6IejOuemj+S6leW3tOS5n++8j+acneWuruaAnOeahzrkvZDol6Tmi5PkuZ88YnI+PGJyPuWOn+S9nDpUUlkKICAgIEtOSUdIVFMgVU5JT07vvI/jgq3jg6Pjg6njgq/jgr/jg7zljp/moYg65a6d5LqV55CG5Lq677yP44K344OK44Oq44Kq5Y6f5qGIOuefoumHjuS/iuetlu+8j+ebo+edozrkvZDjgIXmnKjli4XlmInvvI/jgrfjg6rjg7zjgrrmp4vmiJA644Gf44GL44GgIOiqoO+8j+OCreODo+ODqeOCr+OCv+ODvOODh+OCtuOCpOODszrjgZ3jgonjgoLjgagKICAgIOOBi+OCk++8j+mfs+mfv+ebo+edozrntI3osLflg5rku4vvvI/pn7Pmpb06UsK3T8K3Tu+8j+OCouODi+ODoeODvOOCt+ODp+ODs+WItuS9nDpHT05aT++8j+ebo+S/rjrlpKfnlZHlpKfku4vvvI/ljZTlips65YWs55uK6LKh5Zuj5rOV5Lq6IOaXpeacrOODqeOCsOODk+ODvOODleODg+ODiOODnOODvOODq+WNlOS8mjxicj48YnI+wqnokrzltZDpq5jmoKHjg6njgrDjg5Pjg7zpg6g8YnI+PGJyPnNvMzU3NTU0MTfihpDliY3oqbHjgIDnrKzkuIDoqbHihpJzbzM1NDY5NzM4CiAgbGVuZ3RoX3NlY29uZHM6IDEzMTAKICBjb250ZW50X2lkOiBzbzM1Nzg2MTUxCiAgZGVmYXVsdF90aHJlYWRfaWQ6IDE1NzA0OTg1MDMKICBjaGFubmVsX2lkOiAyNjMyNzIwCiAgdGh1bWJuYWlsX3VybDogaHR0cHM6Ly9uaWNvdmlkZW8uY2RuLm5pbWcuanAvdGh1bWJuYWlscy8zNTc4NjE1MS8zNTc4NjE1MS45MTcwMjU5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSAhcnVieS9oYXNoOkVwaXNvZGVIYXNoCiAgZXBpc29kZV9ubzog56ysMTLoqbEKICB0aXRsZTog44Gd44Gu6aGY44GE44Gv5Y+244GI44Gq44GE44Gn44GP44KM44CB44Go5by344GP6aGY44Gj44Gf44CC44Gg44GM6aGY44GE44Gv5Y+244GI44KJ44KM44Gf44CCCiAgZGVzY3JpcHRpb246IOedgOOAheOBqOODgOODs+OCuOODp+ODs+OCkumAsuOCk+OBp+OBhOOBj+ecn+S6uuOBn+OBoeOAgumAlOS4reOBp+WQiOa1geOBl+OBn+ODneODg+ODgeOBjOOAgeOCouODnuODs+ODhuOBr+ODgOODs+OCuOODp+ODs+OCkuaUu+eVpeOBl+OBpuOAjOOBk+OBruS4lueVjOOBi+OCieavjeimquOCkuS4gOS6uuaui+OCieOBmua2iOOBl+OBpuOBj+OCjOOAjeOBqOmhmOOBhuOBpOOCguOCiuOBoOOBqOaVmeOBiOOBpuOBj+OCjOOBn+OAguOBneOCk+OBquaatOaMmeOCkuioseOBm+OCi+OCj+OBkeOBjOOBquOBhOOAguS4gOaWueOCouODnuODs+ODhuOBr+OAgeOBmeOBp+OBq+mgguS4iuOBrueZvumajuWxpOOBq+WIsOedgOOBl+OBpuODqeOCueODnOOCueOCkuWAkuOBl+OBn+OCguOBruOBruOAgemhmOOBhOOCkuWPtuOBiOOCi+mDqOWxi+OBq+OBr+WFpeOCjOOBmuOBq+OBhOOBn+OAguOBneOBk+OBq+ecn+S6uuOBn+OBoeOBjOePvuOCjOOBpuOAgeOBneOBruOBvuOBvuWvvuaxuuOBmeOCi+a1geOCjOOBq+OAguaIpuOBhOOBruS4reOCouODnuODs+ODhuOBr+ecn+OAheWtkOOBq+WQkeOBi+OBo+OBpuOAgeecn+OAheWtkOOBruWtmOWcqOOBjOaBr+WtkOOBruWPr+iDveaAp+OCkuWlquOBo+OBpuOBhOOCi+OBruOBoOOBqOiogOOBhOaUvuOBpO+8geOAgOaAneOCj+OBmuWLleaPuuOBmeOCi+ecn+OAheWtkOOAguOBneOBruaZguOAgeecn+S6uuOBr+KApuKApuOAgjxicj48YnI+5aSn5aW955yf44CF5a2QOuiMhemHjuaEm+iho++8j+Wkp+Wlveecn+S6ujrnn7PosLfmmKXosrTvvI/jg6/jgqTjgro66Yi05Luj57SX5byT77yP44Od44O844K/OuWOn+eUsOW9qealk++8j+ODoeODh+OCozpMeW5u77yP55m954CsOuaWsOS6lemHjOe+jjxicj48YnI+5Y6f5L2cOuS6leS4reOBoOOBoeOBvu+8iOODleOCoeODs+OCv+OCuOOCouaWh+W6q++8j+agquW8j+S8muekvktBRE9LQVdB77yJ77yP5Y6f5L2c44Kk44Op44K544OIOumjr+eUsOOBveOBoeOAgu+8j+ebo+edozrlsqnltI7oia/mmI7vvI/jgq3jg6Pjg6njgq/jgr/jg7zjg4fjgrbjgqTjg7M65YWr6YeN5qir5rSL5bmz77yP44K344Oq44O844K65qeL5oiQOui1pOWwvuOBp+OBk++8j+mfs+alvTrkupXlhoXllZPkuozvvI/jgqLjg4vjg6Hjg7zjgrfjg6fjg7PliLbkvZw6Si5DLlNUQUZGPGJyPjxicj7CqTIwMTkKICAgIOS6leS4reOBoOOBoeOBvuODu+mjr+eUsOOBveOBoeOAgu+8j+agquW8j+S8muekvu+8q++8oe+8pO+8r++8q++8oe+8t++8oe+8j+OBiuavjeOBleOCk+OBr+WlveOBjeOBp+OBmeOBi++8n+ijveS9nOWnlOWToeS8mjxicj48YnI+c28zNTcwMTczOOKGkOWJjeipseOAgOesrOS4gOipseKGknNvMzUzODAyODcKICBsZW5ndGhfc2Vjb25kczogMTQyMAogIGNvbnRlbnRfaWQ6IHNvMzU3NTU0MTgKICBkZWZhdWx0X3RocmVhZF9pZDogMTU2OTg5MzM0NQogIGNoYW5uZWxfaWQ6IDI2MzI3MjAKICB0aHVtYm5haWxfdXJsOiBodHRwczovL25pY292aWRlby5jZG4ubmltZy5qcC90aHVtYm5haWxzLzM1NzU1NDE4LzM1NzU1NDE4LjM3NDA3NDMxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>レイズナー</last-search>
+      <last-search>本好きの下剋上</last-search>
       <last-offset />
-      <last-pattern>レイズナー</last-pattern>
+      <last-pattern>本好きの下剋上</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -760,17 +736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ときめきトゥ</entry>
-        <entry>ワタル</entry>
-        <entry>エンジェルS</entry>
-        <entry>ケロロ</entry>
-        <entry>コンプレックス</entry>
-        <entry>ボトムズ</entry>
-        <entry>バクマン</entry>
-        <entry>少年突破</entry>
-        <entry>オモウミチ</entry>
-        <entry>超魔神</entry>
-        <entry>ガオガイガー</entry>
         <entry>薄墨</entry>
         <entry>ビジネスフィッシュ</entry>
         <entry>おどるモワイ</entry>
@@ -778,8 +743,19 @@
         <entry>エルガイム</entry>
         <entry>ダグ＆キリル</entry>
         <entry>バトルスピリッツ</entry>
-        <entry>ハッピーシュガーライフ</entry>
         <entry>レイズナー</entry>
+        <entry>ハッピーシュガーライフ</entry>
+        <entry>失われた未来</entry>
+        <entry>18if</entry>
+        <entry>ガリレイドンナ</entry>
+        <entry>さんかれあ</entry>
+        <entry>奴隷区</entry>
+        <entry>夏目</entry>
+        <entry>ひだまりスケッチ</entry>
+        <entry>闇芝居</entry>
+        <entry>遊☆戯☆王</entry>
+        <entry encoding="base64">XDxmaXJzdF9lcGlzb2RlX3VybFw+</entry>
+        <entry>本好きの下剋上</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
