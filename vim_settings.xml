@@ -21,12 +21,11 @@
       <file name="$USER_HOME$/projects/oss/annict/app/views/episodes/_episode_row.html.slim" timestamp="1559466665186">
         <mark key="[" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1571031890391">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="^" line="202" column="1" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1571035614933">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="78" column="1" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/home/index.html.haml" timestamp="1559227030336">
         <mark key="[" line="0" column="0" />
@@ -102,6 +101,9 @@
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/cutting.rb" timestamp="1562906466573">
         <mark key="[" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/fixture_data_task.rb" timestamp="1571035846009">
+        <mark key="[" line="21" column="46" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/layouts/application.html.haml" timestamp="1559316514068">
         <mark key="[" line="1" column="5" />
@@ -655,7 +657,7 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571033277659">
+      <file name="/Dummy.txt" timestamp="1571035640185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02002.yml" timestamp="1570992432362">
@@ -820,7 +822,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIGlkOiAyNgogICAgdGl0bGU6ICdHZXQgQmFja2VycycKICAgIGVwaXNvZGVzOgogICAgICAtIGlkOiAxCiAgICAgICAgaGVhZDoKICAgICAgICAgIGVwaXNvZGVfbm86ICfnrKwx6KmxJwogICAgICAgICAgdGl0bGU6ICLjgqTjg4vjgrfjg6Pjg6vjga9HJkIiCiAgICAgICAgbmljb19icmFuY2g6CiAgICAgICAgICBlcGlzb2RlX25vOiAn56ysMeipsScKICAgICAgICAgIHRpdGxlOiAi44Kk44OL44K344Oj44Or44GvR++8hkIiCiAgLSBpZDogMjcKICAgIHRpdGxlOiAnUkFWRScKICAgIGVwaXNvZGVzOgogICAgICAtIGlkOiAxCiAgICAgICAgaGVhZDoKICAgICAgICAgIGVwaXNvZGVfbm86ICfnrKw0MOipsScKICAgICAgICAgIHRpdGxlOiAiMDA2NeODl+ODq+ODvOODu+ODrOOCuOOCp+ODs+ODiSIKICAgICAgICBuaWNvX2JyYW5jaDoKICAgICAgICAgIGVwaXNvZGVfbm86ICfnrKw0MOipsScKICAgICAgICAgIHRpdGxlOiAiMDA2NeODl+ODq+ODvOODu+ODrOOCuOOCp+ODs+ODieKAgiIK</text>
+        <text encoding="base64">LQogIOWNmuWkmuaYjuWkqu+8geOBtOOCiuOBi+OCieOBk+OBoeOCg+OCkwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -832,38 +834,36 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIGlkOiAyNgogICAgdGl0bGU6ICdHZXQgQmFja2VycycKICAgIGVwaXNvZGVzOgogICAgICAtIGlkOiAxCiAgICAgICAgaGVhZDoKICAgICAgICAgIGVwaXNvZGVfbm86ICfnrKwx6KmxJwogICAgICAgICAgdGl0bGU6ICLjgqTjg4vjgrfjg6Pjg6vjga9HJkIiCiAgICAgICAgbmljb19icmFuY2g6CiAgICAgICAgICBlcGlzb2RlX25vOiAn56ysMeipsScKICAgICAgICAgIHRpdGxlOiAi44Kk44OL44K344Oj44Or44GvR++8hkIiCiAgLSBpZDogMjcKICAgIHRpdGxlOiAnUkFWRScKICAgIGVwaXNvZGVzOgogICAgICAtIGlkOiAxCiAgICAgICAgaGVhZDoKICAgICAgICAgIGVwaXNvZGVfbm86ICfnrKw0MOipsScKICAgICAgICAgIHRpdGxlOiAiMDA2NeODl+ODq+ODvOODu+ODrOOCuOOCp+ODs+ODiSIKICAgICAgICBuaWNvX2JyYW5jaDoKICAgICAgICAgIGVwaXNvZGVfbm86ICfnrKw0MOipsScKICAgICAgICAgIHRpdGxlOiAiMDA2NeODl+ODq+ODvOODu+ODrOOCuOOCp+ODs+ODieKAgiIK</text>
+        <text encoding="base64">LQogIOWNmuWkmuaYjuWkqu+8geOBtOOCiuOBi+OCieOBk+OBoeOCg+OCkwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAKICDli4fogIXmjIfku6Tjg4DjgrDjgqrjg7MKLSAKICDli4fogIXnibnmgKXjg57jgqTjg4jjgqzjgqTjg7MK</text>
+        <text encoding="base64">LQogIOmAmuW4uOaUu+aSg+OBjOWFqOS9k+aUu+aSg+OBp+S6jOWbnuaUu+aSg+OBruOBiuavjeOBleOCk+OBr+WlveOBjeOBp+OBmeOBi++8nwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSAKICDli4fogIXjgqjjgq/jgrnjgqvjgqTjgrbjg7wKLSAKICDli4fogIXorablr5/jgrjjgqfjgqTjg4fjg4Pjgqvjg7wK</text>
+        <text encoding="base64">LQogIOOBvuOBoeOCq+ODieOBvuOBnuOBjwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LQogIOODk+OCuOODjeOCueODleOCo+ODg+OCt+ODpQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>- 
-  黄金勇者ゴルドラン
-- 
-  太陽の勇者ファイバード
-- 
-  伝説の勇者ダ・ガーン</text>
+      <register name="5" type="2">
+        <text encoding="base64">LQogIOODgOODs+OCuOODp+ODs+OBq+WHuuS8muOBhOOCkuaxguOCgeOCi+OBruOBr+mWk+mBleOBo+OBpuOBhOOCi+OBoOOCjeOBhuOBi+KFoQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAi44CM6YqA5rKz6Iux6ZuE5Lyd6KqsIERpZSBOZXVlIFRoZXNlIOmCgumAheOAjSIK</text>
+        <text encoding="base64">LQogIFJlOuOCueODhuODvOOCuCEg44OJ44Oq44O844Og44OH44Kk44K64pmqCi0KICDlpbPlrZDpq5jnlJ/jga7nhKHpp4TjgaXjgYvjgYQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">LQogIOODiuOCq+ODjuODkuODiOOCsuODjuODoOOAkOWun+azgeS4reOAkQotCiAg6a2U546L5qeY44CB44Oq44OI44Op44Kk77yBCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>- !ruby/hash:Hashie::Mash
-  title: &quot;「銀河英雄伝説 Die Neue These 邂逅」&quot;
-  first_episode_url: http://www.nicovideo.jp/watch/so33008268</text>
+        <text>-
+  胡蝶綺 ～若き信長～
+-
+  戦姫絶唱シンフォギアＸＶ
+-
+  ダンベル何キロ持てる？</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
