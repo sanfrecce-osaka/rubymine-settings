@@ -485,6 +485,9 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" timestamp="1571043417350">
+        <mark key="'" line="76" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02371.yml" timestamp="1570966304482">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="0" />
@@ -719,9 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="25" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/memoized_helpers.rb" />
-      <jump line="267" column="66" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/memoized_helpers.rb" />
-      <jump line="273" column="14" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/memoized_helpers.rb" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/fixture_data_task.rb" />
       <jump line="102" column="25" filename="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/fixture_data_task.rb" />
       <jump line="64" column="2" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/work_detail_spec.rb" />
@@ -819,6 +819,9 @@
       <jump line="1193" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="1341" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7595" column="33" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" />
+      <jump line="73" column="50" filename="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" />
+      <jump line="76" column="50" filename="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -828,7 +831,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>邂逅</text>
+        <text>オーバーロード</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -870,9 +873,9 @@
       </register>
     </registers>
     <search>
-      <last-search>邂逅</last-search>
+      <last-search>オーバーロード</last-search>
       <last-offset />
-      <last-pattern>邂逅</last-pattern>
+      <last-pattern>オーバーロード</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -880,7 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>18if</entry>
         <entry>ガリレイドンナ</entry>
         <entry>さんかれあ</entry>
         <entry>奴隷区</entry>
@@ -900,6 +902,7 @@
         <entry>銀河英雄伝説 Die Neue These 邂逅</entry>
         <entry>銀河英雄伝説</entry>
         <entry>邂逅</entry>
+        <entry>オーバーロード</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
