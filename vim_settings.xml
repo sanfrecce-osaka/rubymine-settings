@@ -9,9 +9,9 @@
       <file name="$USER_HOME$/projects/oss/annict/app/views/episodes/_episode_row.html.slim" timestamp="1559466665186">
         <mark key="[" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1571016998153">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1571020467013">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="31" />
+        <mark key="[" line="167" column="9" />
         <mark key="]" line="165" column="30" />
         <mark key="^" line="165" column="30" />
         <mark key="." line="165" column="30" />
