@@ -72,7 +72,7 @@
         <mark key="]" line="1435" column="0" />
         <mark key="." line="1435" column="0" />
       </file>
-      <file name="/df5s2p5h4fhc1o.public.seasons [postgres@heroku]" timestamp="1563369808643">
+      <file name="/df5s2p5h4fhc1o.public.seasons [postgres@heroku]" timestamp="1571034228592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/base_hash.rb" timestamp="1563860982053">
@@ -644,7 +644,7 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/spec/factories/photos.rb" timestamp="1559027285929">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1568451662684">
+      <file name="/dummy.sql" timestamp="1571034235693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/db_data_task.rb" timestamp="1563093559030">
@@ -693,9 +693,9 @@
         <mark key="[" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1571031670083">
-        <mark key="[" line="7630" column="0" />
-        <mark key="]" line="7630" column="0" />
-        <mark key="." line="7630" column="0" />
+        <mark key="[" line="7633" column="0" />
+        <mark key="]" line="7633" column="0" />
+        <mark key="." line="7633" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/test.rb" timestamp="1563716079960">
         <mark key="[" line="2" column="15" />
