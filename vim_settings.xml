@@ -700,7 +700,8 @@
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/app/javascript/packs/markdown.js" timestamp="1560077366591">
         <mark key="[" line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1571031670083">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1571491209638">
+        <mark key="'" line="5195" column="12" />
         <mark key="[" line="7633" column="0" />
         <mark key="]" line="7633" column="0" />
         <mark key="." line="7633" column="0" />
@@ -725,10 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/fixture_data_task.rb" />
-      <jump line="102" column="25" filename="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/fixture_data_task.rb" />
-      <jump line="64" column="2" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/work_detail_spec.rb" />
-      <jump line="6" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/work_detail_spec.rb" />
       <jump line="13" column="74" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/work_detail_spec.rb" />
       <jump line="18" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/work_detail_spec.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
@@ -825,6 +822,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" />
       <jump line="73" column="50" filename="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" />
       <jump line="76" column="50" filename="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" />
+      <jump line="7537" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7622" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="2345" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="5195" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -834,7 +835,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>オーバーロード</text>
+        <text>ゼロから</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -876,9 +877,9 @@
       </register>
     </registers>
     <search>
-      <last-search>オーバーロード</last-search>
+      <last-search>ゼロから</last-search>
       <last-offset />
-      <last-pattern>オーバーロード</last-pattern>
+      <last-pattern>ゼロから</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -886,7 +887,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ガリレイドンナ</entry>
         <entry>さんかれあ</entry>
         <entry>奴隷区</entry>
         <entry>夏目</entry>
@@ -906,6 +906,7 @@
         <entry>銀河英雄伝説</entry>
         <entry>邂逅</entry>
         <entry>オーバーロード</entry>
+        <entry>ゼロから</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
