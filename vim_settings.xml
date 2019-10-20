@@ -195,8 +195,11 @@
       <file name="/jomon-camera.public.photos [jomon-camera@u3db1.youcube.jp]" timestamp="1562908030014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/janken.rb" timestamp="1571557749216">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/janken.rb" timestamp="1571561431041">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/concerns/json_parsable.rb" timestamp="1564401719679">
         <mark key="[" line="0" column="0" />
@@ -837,8 +840,8 @@
       <jump line="5195" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -850,36 +853,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LQogIOWNmuWkmuaYjuWkqu+8geOBtOOCiuOBi+OCieOBk+OBoeOCg+OCkwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">LQogIOmAmuW4uOaUu+aSg+OBjOWFqOS9k+aUu+aSg+OBp+S6jOWbnuaUu+aSg+OBruOBiuavjeOBleOCk+OBr+WlveOBjeOBp+OBmeOBi++8nwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LQogIOOBvuOBoeOCq+ODieOBvuOBnuOBjwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LQogIOODk+OCuOODjeOCueODleOCo+ODg+OCt+ODpQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LQogIOODgOODs+OCuOODp+ODs+OBq+WHuuS8muOBhOOCkuaxguOCgeOCi+OBruOBr+mWk+mBleOBo+OBpuOBhOOCi+OBoOOCjeOBhuOBi+KFoQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LQogIFJlOuOCueODhuODvOOCuCEg44OJ44Oq44O844Og44OH44Kk44K64pmqCi0KICDlpbPlrZDpq5jnlJ/jga7nhKHpp4TjgaXjgYvjgYQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LQogIOODiuOCq+ODjuODkuODiOOCsuODjuODoOOAkOWun+azgeS4reOAkQotCiAg6a2U546L5qeY44CB44Oq44OI44Op44Kk77yBCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>-
-  胡蝶綺 ～若き信長～
--
-  戦姫絶唱シンフォギアＸＶ
--
-  ダンベル何キロ持てる？</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZWYgaW5wdXRfdGhyb3chCiAgICAKICBlbmQKCiAgZGVmIGNwdV90aHJvdyEKICAgIAogIGVuZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LQogIOWNmuWkmuaYjuWkqu+8geOBtOOCiuOBi+OCieOBk+OBoeOCg+OCkwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LQogIOmAmuW4uOaUu+aSg+OBjOWFqOS9k+aUu+aSg+OBp+S6jOWbnuaUu+aSg+OBruOBiuavjeOBleOCk+OBr+WlveOBjeOBp+OBmeOBi++8nwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LQogIOOBvuOBoeOCq+ODieOBvuOBnuOBjwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LQogIOODk+OCuOODjeOCueODleOCo+ODg+OCt+ODpQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LQogIOODgOODs+OCuOODp+ODs+OBq+WHuuS8muOBhOOCkuaxguOCgeOCi+OBruOBr+mWk+mBleOBo+OBpuOBhOOCi+OBoOOCjeOBhuOBi+KFoQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LQogIFJlOuOCueODhuODvOOCuCEg44OJ44Oq44O844Og44OH44Kk44K64pmqCi0KICDlpbPlrZDpq5jnlJ/jga7nhKHpp4TjgaXjgYvjgYQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LQogIOODiuOCq+ODjuODkuODiOOCsuODjuODoOOAkOWun+azgeS4reOAkQotCiAg6a2U546L5qeY44CB44Oq44OI44Op44Kk77yBCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
