@@ -40,16 +40,6 @@
       <file name="$USER_HOME$/projects/growrb/triple-equals-exercises/implement_size_detector/my_size_detector.rb" timestamp="1569412140042">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02366.yml" timestamp="1570966977230">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02234.yml" timestamp="1571001766660">
-        <mark key="[" line="506" column="0" />
-        <mark key="]" line="506" column="0" />
-        <mark key="." line="506" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/form/photo_index.rb" timestamp="1558608212745">
         <mark key="[" line="8" column="20" />
       </file>
@@ -62,16 +52,6 @@
       <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/service/templates/initializer.rb" timestamp="1570929773147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02382.yml" timestamp="1570996327788">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02196.yml" timestamp="1570999837159">
-        <mark key="[" line="1435" column="0" />
-        <mark key="]" line="1435" column="0" />
-        <mark key="." line="1435" column="0" />
-      </file>
       <file name="/df5s2p5h4fhc1o.public.seasons [postgres@heroku]" timestamp="1571875003485">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,18 +61,8 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/mailers/application_mailer.rb" timestamp="1559090471674">
         <mark key="[" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02250.yml" timestamp="1570967348773">
-        <mark key="[" line="433" column="0" />
-        <mark key="]" line="433" column="0" />
-        <mark key="." line="433" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/public/swagger-ui/index.html" timestamp="1558598610264">
         <mark key="[" line="41" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02356.yml" timestamp="1570968874460">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/service/service_generator.rb" timestamp="1570933666842">
         <mark key="[" line="1" column="52" />
@@ -118,21 +88,6 @@
       <file name="$USER_HOME$/projects/growrb/triple-equals-exercises/implement_size_detector/my_size_detector_test.rb" timestamp="1569412257033">
         <mark key="[" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/lib/heiseirb_api_client.rb" timestamp="1568893578838">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02368.yml" timestamp="1570968922293">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/lib/heiseirb_api_client/curry.rb" timestamp="1569063009881">
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="16" />
-        <mark key="." line="68" column="16" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05e5ba5b-5d42-442b-8ed9-1a139698a47b/console_3.sql" timestamp="1561320809730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,6 +96,13 @@
       </file>
       <file name="$USER_HOME$/projects/dotfiles/.zshrc" timestamp="1565976169782">
         <mark key="[" line="181" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" timestamp="1572086066843">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="345" column="24" />
+        <mark key="]" line="345" column="24" />
+        <mark key="." line="345" column="24" />
+        <mark key="^" line="370" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/models/test.rb" timestamp="1558255782291">
         <mark key="[" line="0" column="13" />
@@ -217,11 +179,6 @@
         <mark key="^" line="1" column="176" />
         <mark key="." line="1" column="147" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02232.yml" timestamp="1570993696816">
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="511" column="0" />
-        <mark key="." line="511" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/api_response/b_api_response_hash.rb" timestamp="1563704892742">
         <mark key="[" line="0" column="9" />
       </file>
@@ -231,11 +188,6 @@
       <file name="/users [development.sqlite3]" timestamp="1558528122921">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02505.yml" timestamp="1571023727284">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
       <file name="/danime-nico-tools_development.public.episodes [postgres@localhost]" timestamp="1571048525079">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,11 +196,6 @@
       </file>
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/app/views/api/users/index.json.jbuilder" timestamp="1559448753180">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02345.yml" timestamp="1570955262129">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/season_hash.rb" timestamp="1565318291579">
         <mark key="[" line="83" column="49" />
@@ -265,11 +212,6 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/assets/stylesheets/components/_season.sass" timestamp="1571048036165">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02407.yml" timestamp="1570966408890">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/api/connector/danime_head_store.rb" timestamp="1564478144148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,18 +221,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="20" column="97" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02353.yml" timestamp="1571001256841">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/api/v2/parser/json.rb" timestamp="1564401541754">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02370.yml" timestamp="1570998291659">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gem/implementation_checker/.gitignore" timestamp="1558863174126">
         <mark key="[" line="10" column="13" />
@@ -310,11 +242,6 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="145" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02264.yml" timestamp="1570996201483">
-        <mark key="[" line="1715" column="0" />
-        <mark key="]" line="1715" column="0" />
-        <mark key="." line="1715" column="0" />
-      </file>
       <file name="/fragment.rb" timestamp="1568425845371">
         <mark key="[" line="0" column="0" />
       </file>
@@ -327,37 +254,17 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/environments/development.rb" timestamp="1563715927235">
         <mark key="[" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02219.yml" timestamp="1570993778372">
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="466" column="0" />
-        <mark key="." line="466" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02377.yml" timestamp="1570972234960">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-      </file>
       <file name="/danime-nico-tools_development.public.schema_migrations [postgres@localhost]" timestamp="1558773117711">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/parameters/base_parameter.rb" timestamp="1558503519089">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02142.yml" timestamp="1570993561764">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-      </file>
       <file name="/jomon_camera_rails_development.public.photos [postgres@localhost]" timestamp="1563954681942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gem/hurricane_trimar/lib/hurricane_trimar/version.rb" timestamp="1560838817334">
         <mark key="[" line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02381.yml" timestamp="1571001379044">
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/models/episode.rb" timestamp="1559640035982">
         <mark key="[" line="13" column="69" />
@@ -370,11 +277,6 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/growrb/triple-equals-exercises/reimplement_before_callback/my_before_callback.rb" timestamp="1569416426264">
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/oss/morizyun.github.io/ruby/design-pattern-index.html" timestamp="1564296536784">
         <mark key="[" line="166" column="42" />
@@ -390,21 +292,6 @@
       </file>
       <file name="$USER_HOME$/projects/oss/annict/app/views/episodes/_episode_row.html+mobile.slim" timestamp="1559431341768">
         <mark key="[" line="14" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_01985.yml" timestamp="1570994508978">
-        <mark key="[" line="662" column="0" />
-        <mark key="]" line="662" column="0" />
-        <mark key="." line="662" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02209.yml" timestamp="1570995132037">
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="0" />
-        <mark key="." line="436" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02365.yml" timestamp="1570972437462">
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/spec/mailers/photo_mailer_spec.rb" timestamp="1561512609156">
         <mark key="[" line="18" column="28" />
@@ -444,11 +331,6 @@
         <mark key="]" line="31" column="20" />
         <mark key="^" line="39" column="5" />
         <mark key="." line="31" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02339.yml" timestamp="1570968834170">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/mailers/photo_mailer.rb" timestamp="1561452853785">
         <mark key="[" line="11" column="6" />
@@ -501,11 +383,6 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" timestamp="1571043417350">
         <mark key="'" line="76" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02371.yml" timestamp="1570966304482">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/seasons/_episode.html.haml" timestamp="1559232650303">
         <mark key="[" line="6" column="46" />
       </file>
@@ -518,18 +395,8 @@
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/test/system/user/comments_test.rb" timestamp="1566215524898">
         <mark key="[" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02367.yml" timestamp="1570993628978">
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="0" />
-        <mark key="." line="456" column="0" />
-      </file>
       <file name="/df5s2p5h4fhc1o.public.episodes [postgres@heroku]" timestamp="1566904377986">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02373.yml" timestamp="1570968966416">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
       </file>
       <file name="/seasons [postgres@heroku]" timestamp="1571974598164">
         <mark key="[" line="0" column="0" />
@@ -537,23 +404,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05e5ba5b-5d42-442b-8ed9-1a139698a47b/console_4.sql" timestamp="1563087397566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02502.yml" timestamp="1571023082218">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02385.yml" timestamp="1570998256996">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/kobe-nishiwaki-camp-2018/nabeatsu.rb" timestamp="1559385004604">
         <mark key="[" line="13" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/lib/heiseirb_api_client/crud/event.rb" timestamp="1568892695641">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/concerns/loggable.rb" timestamp="1558303669690">
         <mark key="[" line="4" column="23" />
@@ -564,36 +416,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_00379.yml" timestamp="1571004427753">
-        <mark key="[" line="988" column="0" />
-        <mark key="]" line="988" column="0" />
-        <mark key="." line="988" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02361.yml" timestamp="1570967990582">
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-      </file>
       <file name="/Ruby Console" timestamp="1571373911940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_programming_method_definition_exercises/reimplement_enum/my_enum_or_test.rb" timestamp="1564525670920">
         <mark key="[" line="16" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02395.yml" timestamp="1571004083971">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02352.yml" timestamp="1570964991689">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02220.yml" timestamp="1571005288065">
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="0" />
-        <mark key="." line="500" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/default_webpacker.yml" timestamp="1559348123526">
         <mark key="[" line="19" column="20" />
@@ -612,11 +439,6 @@
         <mark key="]" line="162" column="42" />
         <mark key="^" line="162" column="42" />
         <mark key="." line="162" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02211.yml" timestamp="1571004134758">
-        <mark key="[" line="429" column="0" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/fixtures/lists/on_air_season_list.yml" timestamp="1571536234517">
         <mark key="[" line="3" column="16" />
@@ -657,11 +479,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1571031945282">
-        <mark key="[" line="504" column="0" />
-        <mark key="]" line="504" column="0" />
-        <mark key="." line="504" column="0" />
-      </file>
       <file name="/photos [postgres@localhost]" timestamp="1568111572495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -671,29 +488,14 @@
       <file name="/dummy.sql" timestamp="1571034235693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02344.yml" timestamp="1570955185523">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1571974482772">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02002.yml" timestamp="1570992432362">
-        <mark key="[" line="734" column="0" />
-        <mark key="]" line="734" column="0" />
-        <mark key="." line="734" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
         <mark key="[" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/projects/shell-scripts/Gemfile" timestamp="1559291816733">
         <mark key="[" line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/service/templates/service.rb" timestamp="1570931271235">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/projects/play_method/ace_test.rb" timestamp="1570739652227">
         <mark key="[" line="12" column="5" />
@@ -722,30 +524,8 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/test.rb" timestamp="1563716079960">
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02303.yml" timestamp="1570968369720">
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/vendor/bundle/ruby/2.6.0/gems/letter_opener-1.7.0/lib/letter_opener/configuration.rb" timestamp="1570604626599">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02359.yml" timestamp="1570964887111">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/lib/scraping/v2/danime_head_store/work_detail_spec.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
-      <jump line="55" column="21" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
-      <jump line="48" column="10" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
-      <jump line="59" column="12" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
-      <jump line="16" column="27" filename="$USER_HOME$/projects/isucon/isucon8-qualify/db/schema.sql" />
-      <jump line="27" column="4" filename="$USER_HOME$/projects/isucon/isucon8-qualify/db/schema.sql" />
       <jump line="31" column="45" filename="$USER_HOME$/projects/isucon/isucon8-qualify/db/schema.sql" />
       <jump line="31" column="8" filename="$USER_HOME$/projects/isucon/isucon8-qualify/bench/src/bench/dataset.go" />
       <jump line="125" column="28" filename="$USER_HOME$/projects/isucon/isucon8-qualify/webapp/ruby/lib/torb/web.rb" />
@@ -839,16 +619,23 @@
       <jump line="5195" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" />
+      <jump line="370" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
+      <jump line="358" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
+      <jump line="366" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
+      <jump line="401" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
+      <jump line="327" column="45" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
+      <jump line="345" column="24" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
+      <jump line="40" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+other</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>+other</text>
       </register>
       <register name="/" type="4">
-        <text>ゼロから</text>
+        <text>initialize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -885,9 +672,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ゼロから</last-search>
+      <last-search>initialize</last-search>
       <last-offset />
-      <last-pattern>ゼロから</last-pattern>
+      <last-pattern>initialize</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -895,10 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry>さんかれあ</entry>
-        <entry>奴隷区</entry>
-        <entry>夏目</entry>
-        <entry>ひだまりスケッチ</entry>
         <entry>闇芝居</entry>
         <entry>遊☆戯☆王</entry>
         <entry encoding="base64">XDxmaXJzdF9lcGlzb2RlX3VybFw+</entry>
@@ -915,6 +698,10 @@
         <entry>邂逅</entry>
         <entry>オーバーロード</entry>
         <entry>ゼロから</entry>
+        <entry>sum</entry>
+        <entry>+</entry>
+        <entry>def +</entry>
+        <entry>initialize</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
