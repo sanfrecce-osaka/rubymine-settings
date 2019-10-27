@@ -635,7 +635,7 @@
         <text>+other</text>
       </register>
       <register name="/" type="4">
-        <text>parts</text>
+        <text>sum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -672,9 +672,9 @@
       </register>
     </registers>
     <search>
-      <last-search>parts</last-search>
+      <last-search>sum</last-search>
       <last-offset />
-      <last-pattern>parts</last-pattern>
+      <last-pattern>sum</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -697,11 +697,11 @@
         <entry>邂逅</entry>
         <entry>オーバーロード</entry>
         <entry>ゼロから</entry>
-        <entry>sum</entry>
         <entry>+</entry>
-        <entry>def +</entry>
         <entry>initialize</entry>
         <entry>parts</entry>
+        <entry>def +</entry>
+        <entry>sum</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
