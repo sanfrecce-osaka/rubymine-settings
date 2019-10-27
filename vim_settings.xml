@@ -97,7 +97,7 @@
       <file name="$USER_HOME$/projects/dotfiles/.zshrc" timestamp="1565976169782">
         <mark key="[" line="181" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" timestamp="1572087932676">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" timestamp="1572147497021">
         <mark key="'" line="221" column="6" />
         <mark key="[" line="345" column="24" />
         <mark key="]" line="345" column="24" />
@@ -197,6 +197,7 @@
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/app/views/api/users/index.json.jbuilder" timestamp="1559448753180">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/time_with_zone.rb" timestamp="1572147732340" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/season_hash.rb" timestamp="1565318291579">
         <mark key="[" line="83" column="49" />
       </file>
@@ -260,6 +261,7 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/parameters/base_parameter.rb" timestamp="1558503519089">
         <mark key="[" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date_and_time/zones.rb" timestamp="1572147667617" />
       <file name="/jomon_camera_rails_development.public.photos [postgres@localhost]" timestamp="1563954681942">
         <mark key="[" line="0" column="0" />
       </file>
@@ -379,9 +381,6 @@
         <mark key="]" line="16" column="42" />
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" timestamp="1571043417350">
-        <mark key="'" line="76" column="50" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/seasons/_episode.html.haml" timestamp="1559232650303">
         <mark key="[" line="6" column="46" />
