@@ -321,6 +321,9 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" timestamp="1572233756375">
         <mark key="'" line="55" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/exceptions/batch_exercises/my_batch_executor_test.rb" timestamp="1572267723652">
+        <mark key="[" line="30" column="54" />
+      </file>
       <file name="/jomon_camera_rails_development.public.schema_migrations [postgres@localhost]" timestamp="1562739200162">
         <mark key="[" line="0" column="0" />
       </file>
