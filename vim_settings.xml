@@ -100,8 +100,8 @@
       <file name="$USER_HOME$/projects/dotfiles/.zshrc" timestamp="1565976169782">
         <mark key="[" line="181" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" timestamp="1572233707147">
-        <mark key="'" line="221" column="6" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" timestamp="1572234236804">
+        <mark key="'" line="409" column="42" />
         <mark key="[" line="345" column="24" />
         <mark key="]" line="345" column="24" />
         <mark key="." line="345" column="24" />
@@ -538,7 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7371" column="61" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7438" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7380" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7447" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -638,6 +637,7 @@
       <jump line="85" column="4" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
       <jump line="91" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
       <jump line="55" column="17" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
+      <jump line="409" column="42" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -647,7 +647,7 @@
         <text>+other</text>
       </register>
       <register name="/" type="4">
-        <text>since</text>
+        <text>def +</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -684,9 +684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>since</last-search>
+      <last-search>def +</last-search>
       <last-offset />
-      <last-pattern>since</last-pattern>
+      <last-pattern>def +</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -711,9 +711,9 @@
         <entry>+</entry>
         <entry>initialize</entry>
         <entry>parts</entry>
-        <entry>def +</entry>
         <entry>sum</entry>
         <entry>since</entry>
+        <entry>def +</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
