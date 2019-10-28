@@ -55,6 +55,11 @@
       <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/service/templates/initializer.rb" timestamp="1570929773147">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/exceptions/loop_control_exercises/my_loop_controller_test.rb" timestamp="1572264674200">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="/df5s2p5h4fhc1o.public.seasons [postgres@heroku]" timestamp="1571875003485">
         <mark key="[" line="0" column="0" />
       </file>
@@ -419,6 +424,11 @@
       <file name="$USER_HOME$/projects/kobe-nishiwaki-camp-2018/nabeatsu.rb" timestamp="1559385004604">
         <mark key="[" line="13" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/exceptions/loop_control_exercises/my_loop_controller.rb" timestamp="1572265154258">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/concerns/loggable.rb" timestamp="1558303669690">
         <mark key="[" line="4" column="23" />
       </file>
@@ -428,7 +438,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1572087807815">
+      <file name="/Ruby Console" timestamp="1572264395604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_programming_method_definition_exercises/reimplement_enum/my_enum_or_test.rb" timestamp="1564525670920">
@@ -500,7 +510,7 @@
       <file name="/dummy.sql" timestamp="1571034235693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572262916175">
+      <file name="/Dummy.txt" timestamp="1572263000029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
@@ -526,12 +536,6 @@
       </file>
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/app/javascript/packs/markdown.js" timestamp="1560077366591">
         <mark key="[" line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1571491209638">
-        <mark key="'" line="5195" column="12" />
-        <mark key="[" line="7633" column="0" />
-        <mark key="]" line="7633" column="0" />
-        <mark key="." line="7633" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/test.rb" timestamp="1563716079960">
         <mark key="[" line="2" column="15" />
@@ -640,11 +644,11 @@
       <jump line="409" column="42" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+other</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>+other</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>def +</text>
@@ -653,31 +657,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgaW5wdXRfdGhyb3chCiAgICAKICBlbmQKCiAgZGVmIGNwdV90aHJvdyEKICAgIAogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHNraXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LQogIOWNmuWkmuaYjuWkqu+8geOBtOOCiuOBi+OCieOBk+OBoeOCg+OCkwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LQogIOmAmuW4uOaUu+aSg+OBjOWFqOS9k+aUu+aSg+OBp+S6jOWbnuaUu+aSg+OBruOBiuavjeOBleOCk+OBr+WlveOBjeOBp+OBmeOBi++8nwo=</text>
+        <text encoding="base64">ICBkZWYgaW5wdXRfdGhyb3chCiAgICAKICBlbmQKCiAgZGVmIGNwdV90aHJvdyEKICAgIAogIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LQogIOOBvuOBoeOCq+ODieOBvuOBnuOBjwo=</text>
+        <text encoding="base64">LQogIOWNmuWkmuaYjuWkqu+8geOBtOOCiuOBi+OCieOBk+OBoeOCg+OCkwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LQogIOODk+OCuOODjeOCueODleOCo+ODg+OCt+ODpQo=</text>
+        <text encoding="base64">LQogIOmAmuW4uOaUu+aSg+OBjOWFqOS9k+aUu+aSg+OBp+S6jOWbnuaUu+aSg+OBruOBiuavjeOBleOCk+OBr+WlveOBjeOBp+OBmeOBi++8nwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LQogIOODgOODs+OCuOODp+ODs+OBq+WHuuS8muOBhOOCkuaxguOCgeOCi+OBruOBr+mWk+mBleOBo+OBpuOBhOOCi+OBoOOCjeOBhuOBi+KFoQo=</text>
+        <text encoding="base64">LQogIOOBvuOBoeOCq+ODieOBvuOBnuOBjwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LQogIFJlOuOCueODhuODvOOCuCEg44OJ44Oq44O844Og44OH44Kk44K64pmqCi0KICDlpbPlrZDpq5jnlJ/jga7nhKHpp4TjgaXjgYvjgYQK</text>
+        <text encoding="base64">LQogIOODk+OCuOODjeOCueODleOCo+ODg+OCt+ODpQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LQogIOODiuOCq+ODjuODkuODiOOCsuODjuODoOOAkOWun+azgeS4reOAkQotCiAg6a2U546L5qeY44CB44Oq44OI44Op44Kk77yBCg==</text>
+        <text encoding="base64">LQogIOODgOODs+OCuOODp+ODs+OBq+WHuuS8muOBhOOCkuaxguOCgeOCi+OBruOBr+mWk+mBleOBo+OBpuOBhOOCi+OBoOOCjeOBhuOBi+KFoQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
