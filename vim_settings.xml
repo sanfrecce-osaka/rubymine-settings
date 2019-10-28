@@ -100,7 +100,7 @@
       <file name="$USER_HOME$/projects/dotfiles/.zshrc" timestamp="1565976169782">
         <mark key="[" line="181" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" timestamp="1572153132278">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" timestamp="1572233707147">
         <mark key="'" line="221" column="6" />
         <mark key="[" line="345" column="24" />
         <mark key="]" line="345" column="24" />
@@ -312,6 +312,9 @@
         <mark key="]" line="40" column="19" />
         <mark key="^" line="40" column="19" />
         <mark key="." line="40" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" timestamp="1572233756375">
+        <mark key="'" line="55" column="17" />
       </file>
       <file name="/jomon_camera_rails_development.public.schema_migrations [postgres@localhost]" timestamp="1562739200162">
         <mark key="[" line="0" column="0" />
@@ -535,9 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7359" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7492" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="10" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7371" column="61" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7438" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7380" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -635,6 +635,9 @@
       <jump line="4" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration/iso8601_serializer.rb" />
       <jump line="37" column="20" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration/iso8601_serializer.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/rails_helper.rb" />
+      <jump line="85" column="4" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
+      <jump line="91" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
+      <jump line="55" column="17" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -644,7 +647,7 @@
         <text>+other</text>
       </register>
       <register name="/" type="4">
-        <text>sum</text>
+        <text>since</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -681,9 +684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sum</last-search>
+      <last-search>since</last-search>
       <last-offset />
-      <last-pattern>sum</last-pattern>
+      <last-pattern>since</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -691,7 +694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>遊☆戯☆王</entry>
         <entry encoding="base64">XDxmaXJzdF9lcGlzb2RlX3VybFw+</entry>
         <entry>本好きの下剋上</entry>
         <entry>本好き</entry>
@@ -711,6 +713,7 @@
         <entry>parts</entry>
         <entry>def +</entry>
         <entry>sum</entry>
+        <entry>since</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
