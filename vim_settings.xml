@@ -660,7 +660,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>tap</text>
+        <text>\?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -697,9 +697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tap</last-search>
+      <last-search>\?</last-search>
       <last-offset />
-      <last-pattern>tap</last-pattern>
+      <last-pattern>\?</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>本好きの下剋上</entry>
         <entry>本好き</entry>
         <entry>ガリアン</entry>
         <entry>バイファム</entry>
@@ -727,6 +726,7 @@
         <entry>since</entry>
         <entry>def +</entry>
         <entry>tap</entry>
+        <entry>\?</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
