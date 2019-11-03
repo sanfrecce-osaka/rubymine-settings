@@ -16,9 +16,6 @@
         <mark key="^" line="121" column="1" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/rails_helper.rb" timestamp="1572225267117">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/home/index.html.haml" timestamp="1559227030336">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,7 +33,7 @@
       <file name="$USER_HOME$/projects/rails_guide/play_generator/lib/generators/service/templates/initializer.rb" timestamp="1570929773147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/df5s2p5h4fhc1o.public.seasons [postgres@heroku]" timestamp="1572800761278">
+      <file name="/df5s2p5h4fhc1o.public.seasons [postgres@heroku]" timestamp="1572801929975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/base_hash.rb" timestamp="1563860982053">
@@ -112,9 +109,6 @@
       <file name="/users [development.sqlite3]" timestamp="1558528122921">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ruby-signature/stdlib/builtin/kernel.rbs" timestamp="1572347952998">
-        <mark key="'" line="10" column="18" />
-      </file>
       <file name="/danime-nico-tools_development.public.episodes [postgres@localhost]" timestamp="1571048525079">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,9 +165,6 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/models/episode.rb" timestamp="1559640035982">
         <mark key="[" line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration/iso8601_serializer.rb" timestamp="1572155660144">
-        <mark key="'" line="37" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02499.yml" timestamp="1572797403481">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -182,9 +173,6 @@
       <file name="$USER_HOME$/projects/growrb/reimplement_enum/my_enum_test.rb" timestamp="1564502181298">
         <mark key="[" line="69" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/danime_nico_branch_store.rb" timestamp="1572776707265">
-        <mark key="'" line="37" column="47" />
-      </file>
       <file name="$USER_HOME$/projects/oss/annict/app/views/episodes/_episode_row.html+mobile.slim" timestamp="1559431341768">
         <mark key="[" line="14" column="6" />
       </file>
@@ -192,9 +180,6 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" timestamp="1572233756375">
-        <mark key="'" line="55" column="17" />
       </file>
       <file name="$USER_HOME$/projects/growrb/exceptions/batch_exercises/my_batch_executor_test.rb" timestamp="1572267723652">
         <mark key="[" line="30" column="54" />
@@ -236,9 +221,6 @@
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/support/helpers/umakuikukana_helper.rb" timestamp="1565382512780">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/log/data:fixtures:not_watchable_seasons.log" timestamp="1571043417350">
-        <mark key="'" line="76" column="50" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/seasons/_episode.html.haml" timestamp="1559232650303">
         <mark key="[" line="6" column="46" />
@@ -308,11 +290,6 @@
       </file>
       <file name="$USER_HOME$/projects/shell-scripts/Gemfile" timestamp="1559291816733">
         <mark key="[" line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02538.yml" timestamp="1572797496131">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/projects/heiseirb/heiseirb/2019/09/hoge/heiseirb_api_client/.ruby-version" timestamp="1568893137854">
         <mark key="[" line="0" column="5" />
