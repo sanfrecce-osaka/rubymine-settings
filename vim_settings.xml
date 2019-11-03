@@ -208,7 +208,6 @@
       <file name="$USER_HOME$/projects/fjordllc/bootcamp/app/views/api/users/index.json.jbuilder" timestamp="1559448753180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/time_with_zone.rb" timestamp="1572147732340" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/season_hash.rb" timestamp="1565318291579">
         <mark key="[" line="83" column="49" />
       </file>
@@ -272,7 +271,6 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/parameters/base_parameter.rb" timestamp="1558503519089">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date_and_time/zones.rb" timestamp="1572147667617" />
       <file name="/jomon_camera_rails_development.public.photos [postgres@localhost]" timestamp="1563954681942">
         <mark key="[" line="0" column="0" />
       </file>
@@ -363,7 +361,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1563087609106">
         <mark key="[" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/object/acts_like.rb" timestamp="1572152157120" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/ApiResponse/api_response_hash.rb" timestamp="1563702858344">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="2" />
@@ -447,7 +444,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1572294394299">
+      <file name="/Ruby Console" timestamp="1572749417457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_programming_method_definition_exercises/reimplement_enum/my_enum_or_test.rb" timestamp="1564525670920">
