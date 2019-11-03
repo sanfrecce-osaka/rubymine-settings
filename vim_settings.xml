@@ -21,12 +21,11 @@
       <file name="$USER_HOME$/projects/oss/annict/app/views/episodes/_episode_row.html.slim" timestamp="1559466665186">
         <mark key="[" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1571961224840">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1572774543295">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="117" column="1" />
-        <mark key="^" line="117" column="1" />
-        <mark key="." line="117" column="1" />
+        <mark key="]" line="129" column="1" />
+        <mark key="^" line="129" column="1" />
+        <mark key="." line="129" column="1" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/rails_helper.rb" timestamp="1572225267117">
         <mark key="'" line="0" column="0" />
@@ -421,7 +420,7 @@
       <file name="$USER_HOME$/projects/growrb/exceptions/batch_exercises/my_batch_executor.rb" timestamp="1572266181955">
         <mark key="[" line="3" column="21" />
       </file>
-      <file name="/seasons [postgres@heroku]" timestamp="1571974598164">
+      <file name="/seasons [postgres@heroku]" timestamp="1572775347016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05e5ba5b-5d42-442b-8ed9-1a139698a47b/console_4.sql" timestamp="1563087397566">
@@ -516,7 +515,7 @@
       <file name="/dummy.sql" timestamp="1571034235693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572347524906">
+      <file name="/Dummy.txt" timestamp="1572774852925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
