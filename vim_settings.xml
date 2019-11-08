@@ -147,6 +147,13 @@
       <file name="/fragment.rb" timestamp="1568425845371">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" timestamp="1573255174085">
+        <mark key="'" line="73" column="43" />
+        <mark key="[" line="140" column="9" />
+        <mark key="]" line="73" column="43" />
+        <mark key="^" line="73" column="43" />
+        <mark key="." line="73" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/environments/development.rb" timestamp="1563715927235">
         <mark key="[" line="17" column="27" />
       </file>
@@ -240,7 +247,7 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/concerns/loggable.rb" timestamp="1558303669690">
         <mark key="[" line="4" column="23" />
       </file>
-      <file name="/Ruby Console" timestamp="1573254222958">
+      <file name="/Ruby Console" timestamp="1573255186570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_programming_method_definition_exercises/reimplement_enum/my_enum_or_test.rb" timestamp="1564525670920">
@@ -301,9 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7383" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7440" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7389" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7395" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7567" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7404" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -401,6 +405,9 @@
       <jump line="10" column="18" filename="$USER_HOME$/projects/ruby-signature/stdlib/builtin/kernel.rbs" />
       <jump line="37" column="47" filename="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/danime_nico_branch_store.rb" />
       <jump line="96" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
+      <jump line="20" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
+      <jump line="73" column="43" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -410,7 +417,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>トライナイツ</text>
+        <text>handler_for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -447,9 +454,9 @@
       </register>
     </registers>
     <search>
-      <last-search>トライナイツ</last-search>
+      <last-search>handler_for</last-search>
       <last-offset />
-      <last-pattern>トライナイツ</last-pattern>
+      <last-pattern>handler_for</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -457,8 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>バイファム</entry>
-        <entry>ザブングル</entry>
         <entry>イデオン</entry>
         <entry>グランゾート</entry>
         <entry>「銀河英雄伝説 Die Neue These 邂逅」</entry>
@@ -477,6 +482,8 @@
         <entry>\?</entry>
         <entry>initialize_season_with_different_title</entry>
         <entry>トライナイツ</entry>
+        <entry>expand_from_hash</entry>
+        <entry>handler_for</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
