@@ -200,12 +200,6 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/ext/string_spec.rb" timestamp="1560248775658">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/season_lineup.rb" timestamp="1572776919898">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="20" column="62" />
-        <mark key="." line="20" column="62" />
-        <mark key="^" line="20" column="62" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1563087609106">
         <mark key="[" line="0" column="8" />
       </file>
@@ -229,11 +223,11 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/spec/support/helpers/umakuikukana_helper.rb" timestamp="1565382512780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/hoge.rb" timestamp="1573287205729">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/hoge.rb" timestamp="1573289529612">
+        <mark key="'" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/views/seasons/_episode.html.haml" timestamp="1559232650303">
         <mark key="[" line="6" column="46" />
@@ -259,9 +253,6 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/concerns/loggable.rb" timestamp="1558303669690">
         <mark key="[" line="4" column="23" />
       </file>
-      <file name="/Ruby Console" timestamp="1573255186570">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/meta_programming_method_definition_exercises/reimplement_enum/my_enum_or_test.rb" timestamp="1564525670920">
         <mark key="[" line="16" column="8" />
       </file>
@@ -280,12 +271,6 @@
       <file name="$USER_HOME$/projects/oss/annict/config/database.yml" timestamp="1558435622628">
         <mark key="[" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1572777491314">
-        <mark key="[" line="549" column="14" />
-        <mark key="]" line="546" column="12" />
-        <mark key="^" line="546" column="12" />
-        <mark key="." line="546" column="12" />
-      </file>
       <file name="/photos [postgres@localhost]" timestamp="1568111572495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -295,7 +280,7 @@
       <file name="/dummy.sql" timestamp="1571034235693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573282019041">
+      <file name="/Dummy.txt" timestamp="1573289036760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
@@ -326,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7395" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7567" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7404" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7585" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -426,6 +410,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
       <jump line="20" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
       <jump line="73" column="43" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
+      <jump line="12" column="24" filename="$USER_HOME$/projects/niconico/danime-nico-tools/hoge.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
