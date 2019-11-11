@@ -251,12 +251,9 @@
       <file name="/fragment.rb" timestamp="1568425845371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" timestamp="1573382427748">
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" timestamp="1573475182941">
         <mark key="'" line="73" column="22" />
         <mark key="[" line="152" column="35" />
-        <mark key="]" line="143" column="6" />
-        <mark key="." line="143" column="6" />
-        <mark key="^" line="143" column="6" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/updated_to_not_watchable_list.yml" timestamp="1571536672581">
         <mark key="[" line="25" column="21" />
@@ -460,7 +457,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1573383917255">
+      <file name="/Ruby Console" timestamp="1573475268590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
