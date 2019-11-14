@@ -30,8 +30,12 @@
           <option name="url" value="git@github.com:sanfrecce-osaka/rubyist-connect.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mitakarb/beerkeeper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/oss" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/mitakarb" />
   </component>
 </application>
