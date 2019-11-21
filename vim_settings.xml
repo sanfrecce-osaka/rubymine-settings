@@ -83,6 +83,12 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/.node-version" timestamp="1559329226271">
         <mark key="[" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/7_white_magic/reimplement_descendants_and_subclasses/my_class_introspector.rb" timestamp="1574340052881">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+      </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/views/api/v1/photos/show.json.jbuilder" timestamp="1558604664451">
         <mark key="[" line="3" column="30" />
       </file>
@@ -145,6 +151,7 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/7_white_magic/reimplement_descendants_and_subclasses/my_class_introspector_test.rb" timestamp="1574339821018" />
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/controllers/api/v1/photos_controller.rb" timestamp="1561450718050">
         <mark key="[" line="41" column="78" />
       </file>
