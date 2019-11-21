@@ -542,6 +542,9 @@
         <mark key="." line="8" column="78" />
         <mark key="^" line="8" column="78" />
       </file>
+      <file name="$USER_HOME$/projects/growrb/7_white_magic/method_lookup_exercises/method_lookup.rb" timestamp="1574335728300">
+        <mark key="[" line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02521.yml" timestamp="1574017738137">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -568,7 +571,7 @@
       <file name="/dummy.sql" timestamp="1571034235693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574233144915">
+      <file name="/Dummy.txt" timestamp="1574335423785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
