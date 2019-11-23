@@ -151,7 +151,6 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/growrb/7_white_magic/reimplement_descendants_and_subclasses/my_class_introspector_test.rb" timestamp="1574339821018" />
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/controllers/api/v1/photos_controller.rb" timestamp="1561450718050">
         <mark key="[" line="41" column="78" />
       </file>
@@ -185,7 +184,6 @@
         <mark key="^" line="1" column="176" />
         <mark key="." line="1" column="147" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02593.yml" timestamp="1574022097901" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/api_response/b_api_response_hash.rb" timestamp="1563704892742">
         <mark key="[" line="0" column="9" />
       </file>
@@ -242,7 +240,6 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/api/connector/danime_head_store.rb" timestamp="1564478144148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/season_02409.yml" timestamp="1574020707781" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/hashes/api_response_hash.rb" timestamp="1564467374758">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -474,7 +471,6 @@
       <file name="/seasons [postgres@heroku]" timestamp="1574422717894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_01744.yml" timestamp="1574022116139" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/05e5ba5b-5d42-442b-8ed9-1a139698a47b/console_4.sql" timestamp="1563087397566">
         <mark key="[" line="0" column="0" />
       </file>
@@ -599,7 +595,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574335423785">
+      <file name="/Dummy.txt" timestamp="1574490544037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
