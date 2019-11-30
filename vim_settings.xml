@@ -74,6 +74,11 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/cutting.rb" timestamp="1562906466573">
         <mark key="[" line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/everydayrails-rspec-2017/spec/requests/projects_apis_spec.rb" timestamp="1575090508272">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/app/tasks/fixture_data_task.rb" timestamp="1571048261614">
         <mark key="[" line="21" column="46" />
       </file>
@@ -595,7 +600,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574490544037">
+      <file name="/Dummy.txt" timestamp="1575090430965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
@@ -739,11 +744,11 @@
       <jump line="96" column="33" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>association</text>
