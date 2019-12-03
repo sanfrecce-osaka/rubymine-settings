@@ -351,8 +351,8 @@
         <mark key="." line="146" column="18" />
         <mark key="^" line="146" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cruby/mirror/proc.c" timestamp="1575379232914">
-        <mark key="'" line="1327" column="0" />
+      <file name="$USER_HOME$/projects/cruby/mirror/proc.c" timestamp="1575380284887">
+        <mark key="'" line="2951" column="0" />
       </file>
       <file name="$USER_HOME$/projects/oss/annict/app/views/episodes/_episode_row.html+mobile.slim" timestamp="1559431341768">
         <mark key="[" line="14" column="6" />
@@ -509,7 +509,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1575193619303">
+      <file name="/Ruby Console" timestamp="1575380094168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -654,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="10" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
       <jump line="221" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration/iso8601_serializer.rb" />
       <jump line="37" column="20" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration/iso8601_serializer.rb" />
@@ -754,6 +753,7 @@
       <jump line="2048" column="19" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
       <jump line="790" column="10" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
       <jump line="1327" column="0" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
+      <jump line="2951" column="0" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -763,7 +763,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>method_to_proc</text>
+        <text>hash_pro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -800,9 +800,9 @@
       </register>
     </registers>
     <search>
-      <last-search>method_to_proc</last-search>
+      <last-search>hash_pro</last-search>
       <last-offset />
-      <last-pattern>method_to_proc</last-pattern>
+      <last-pattern>hash_pro</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tap</entry>
         <entry>\?</entry>
         <entry>initialize_season_with_different_title</entry>
         <entry>トライナイツ</entry>
@@ -830,6 +829,7 @@
         <entry>sym_to_proc</entry>
         <entry>rb_sym_to_proc</entry>
         <entry>method_to_proc</entry>
+        <entry>hash_pro</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
