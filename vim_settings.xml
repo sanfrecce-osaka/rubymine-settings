@@ -312,6 +312,10 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/parameters/base_parameter.rb" timestamp="1558503519089">
         <mark key="[" line="2" column="19" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/rubystubs26/method.rb" timestamp="1575377694244">
+        <mark key="'" line="161" column="20" />
+        <mark key="[" line="79" column="4" />
+      </file>
       <file name="/jomon_camera_rails_development.public.photos [postgres@localhost]" timestamp="1563954681942">
         <mark key="[" line="0" column="0" />
       </file>
@@ -605,7 +609,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1575259362439">
+      <file name="/Dummy.txt" timestamp="1575259586265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/config/settings/test.yml" timestamp="1560146886124">
@@ -647,12 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7452" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7455" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7458" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7461" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7464" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="7476" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7479" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7596" column="2" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="7450" column="1" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -747,6 +745,12 @@
       <jump line="90" column="8" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
       <jump line="91" column="8" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
       <jump line="96" column="33" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
+      <jump line="79" column="36" filename="$APPLICATION_HOME_DIR$/rubystubs26/method.rb" />
+      <jump line="88" column="18" filename="$APPLICATION_HOME_DIR$/rubystubs26/method.rb" />
+      <jump line="91" column="20" filename="$APPLICATION_HOME_DIR$/rubystubs26/method.rb" />
+      <jump line="149" column="36" filename="$APPLICATION_HOME_DIR$/rubystubs26/method.rb" />
+      <jump line="158" column="18" filename="$APPLICATION_HOME_DIR$/rubystubs26/method.rb" />
+      <jump line="161" column="20" filename="$APPLICATION_HOME_DIR$/rubystubs26/method.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -756,7 +760,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>association</text>
+        <text>lambda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -793,9 +797,9 @@
       </register>
     </registers>
     <search>
-      <last-search>association</last-search>
+      <last-search>lambda</last-search>
       <last-offset />
-      <last-pattern>association</last-pattern>
+      <last-pattern>lambda</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ゼロから</entry>
         <entry>+</entry>
         <entry>initialize</entry>
         <entry>parts</entry>
@@ -823,6 +826,7 @@
         <entry>asso</entry>
         <entry>associated_with</entry>
         <entry>association</entry>
+        <entry>lambda</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
