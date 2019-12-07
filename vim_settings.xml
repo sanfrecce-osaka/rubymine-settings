@@ -71,8 +71,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/cutting.rb" timestamp="1575708970830">
-        <mark key="[" line="21" column="9" />
+      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/cutting.rb" timestamp="1575710801610">
+        <mark key="[" line="25" column="9" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -254,7 +254,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/rotation.rb" timestamp="1575709266421">
-        <mark key="[" line="21" column="9" />
+        <mark key="[" line="25" column="9" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -583,7 +583,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/montage.rb" timestamp="1575709107644">
-        <mark key="[" line="21" column="40" />
+        <mark key="[" line="25" column="40" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
