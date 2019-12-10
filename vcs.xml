@@ -42,8 +42,12 @@
           <option name="url" value="git@github.com:ruby/ruby.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ginzarb/meetups.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/cruby" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/ginzarb" />
   </component>
 </application>
