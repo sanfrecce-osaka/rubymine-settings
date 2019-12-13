@@ -162,7 +162,11 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/api/connector/danime_head_store.rb" timestamp="1564478144148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/rotation.rb" timestamp="1576263561981" />
+      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter/rotation.rb" timestamp="1576264387541">
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/api/v2/parser/json.rb" timestamp="1564401541754">
         <mark key="[" line="0" column="0" />
       </file>
