@@ -312,7 +312,11 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/default_webpacker.yml" timestamp="1559348123526">
         <mark key="[" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter.rb" timestamp="1576270422858" />
+      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/models/photo/converter.rb" timestamp="1576283338149">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/seasons/season_02531.yml" timestamp="1574019622460">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -502,10 +506,8 @@
       <jump line="2951" column="0" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>args.each do |arg|
-    add_arg(command, arg)
-  end</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC5yZWplY3QoJjphZG1pbj8pCiAgICAudGFwKCZtZXRob2QoOnApKQogICAgLnJlamVjdCgmOnJldGlyCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -516,23 +518,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC5yZWplY3QoJjphZG1pbj8pCiAgICAudGFwKCZtZXRob2QoOnApKQogICAgLnJlamVjdCgmOnJldGlyCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>args.each do |arg|
     add_arg(command, arg)
   end</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IOi7ouiBt+OBp+OBjeOCi+OCk+OChOOCjeOBiwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>- スクールの友達のやってること（自分の知らない言語等に手を出しているため）  
 -</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">44Ko44Oz44K444OL44Ki44Gr44Gq44KK44Gf44GP44Gm5p+Q44OX44Ot44Kw44Op44Of44Oz44Kw44K544Kv44O844Or44Gr6YCa44GE44CB54++5Zyo6Lui6IG35rS75YuV5Lit44Gn44GZ44CCICAKUnVieeOBrzIwMTnlubQ45pyI44GL44KJ5L2/44GE5aeL44KB44G+44GX44Gf44CCICA=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAb3V0cHV0X3BhdGggPSBvdXRwdXRfcGF0aAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBAb3V0cHV0X3BhdGggPSBvdXRwdXRfcGF0aAo=</text>
@@ -544,7 +546,7 @@
         <text encoding="base64">ICAgICAgICBAb3V0cHV0X3BhdGggPSBvdXRwdXRfcGF0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBAb3V0cHV0X3BhdGggPSBvdXRwdXRfcGF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
