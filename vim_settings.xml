@@ -172,6 +172,9 @@
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/app/controllers/api/v1/photos_controller.rb" timestamp="1561450718050">
         <mark key="[" line="41" column="78" />
       </file>
+      <file name="$USER_HOME$/projects/cruby/mirror/parse.y" timestamp="1576498571451">
+        <mark key="'" line="1128" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/danime_head_store.rb" timestamp="1567391464610">
         <mark key="[" line="111" column="37" />
         <mark key="]" line="104" column="30" />
@@ -671,37 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration/iso8601_serializer.rb" />
-      <jump line="37" column="20" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration/iso8601_serializer.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/spec/rails_helper.rb" />
-      <jump line="85" column="4" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
-      <jump line="91" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
-      <jump line="55" column="17" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/core_ext/date/calculations.rb" />
-      <jump line="409" column="42" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activesupport-5.2.3/lib/active_support/duration.rb" />
-      <jump line="10" column="18" filename="$USER_HOME$/projects/ruby-signature/stdlib/builtin/kernel.rbs" />
-      <jump line="37" column="47" filename="$USER_HOME$/projects/niconico/danime-nico-tools/lib/scraping/danime_nico_branch_store.rb" />
-      <jump line="96" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="20" column="6" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="12" column="24" filename="$USER_HOME$/projects/niconico/danime-nico-tools/hoge.rb" />
-      <jump line="156" column="54" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="77" column="54" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/schema.rb" />
-      <jump line="25" column="20" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/schema.rb" />
-      <jump line="28" column="60" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/schema.rb" />
-      <jump line="29" column="58" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/schema.rb" />
-      <jump line="22" column="29" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/schema.rb" />
-      <jump line="24" column="21" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/schema.rb" />
-      <jump line="133" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="142" column="8" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="144" column="15" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="150" column="50" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="72" column="56" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="73" column="22" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/relation/predicate_builder.rb" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
-      <jump line="44" column="53" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
-      <jump line="48" column="23" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
       <jump line="90" column="8" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
       <jump line="91" column="8" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
       <jump line="96" column="33" filename="$USER_HOME$/projects/niconico/danime-nico-tools/vendor/bundle/ruby/2.6.0/gems/activerecord-5.2.3/lib/active_record/reflection.rb" />
@@ -771,6 +743,37 @@
       <jump line="790" column="10" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
       <jump line="1327" column="0" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
       <jump line="2951" column="0" filename="$USER_HOME$/projects/cruby/mirror/proc.c" />
+      <jump line="10500" column="0" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="11769" column="4" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="30" column="17" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="145" column="33" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="446" column="12" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="448" column="13" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="463" column="104" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="464" column="24" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="619" column="19" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="772" column="60" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="773" column="99" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="777" column="79" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="782" column="23" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1011" column="39" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1057" column="51" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1062" column="83" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1063" column="50" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1065" column="62" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1066" column="30" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1069" column="41" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1027" column="23" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="725" column="29" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="726" column="29" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="727" column="31" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="728" column="39" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="779" column="74" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="834" column="64" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="866" column="62" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1103" column="45" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1115" column="44" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
+      <jump line="1128" column="25" filename="$USER_HOME$/projects/cruby/mirror/parse.y" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -780,7 +783,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>hash_pro</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -820,9 +823,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hash_pro</last-search>
+      <last-search encoding="base64">Jg==</last-search>
       <last-offset />
-      <last-pattern>hash_pro</last-pattern>
+      <last-pattern encoding="base64">Jg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -830,9 +833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\?</entry>
-        <entry>initialize_season_with_different_title</entry>
-        <entry>トライナイツ</entry>
         <entry>expand_from_hash</entry>
         <entry>handler_for</entry>
         <entry>_ID</entry>
@@ -844,12 +844,15 @@
         <entry>association</entry>
         <entry>method</entry>
         <entry>lambda</entry>
-        <entry>to_proc</entry>
         <entry>rb.*to_proc</entry>
         <entry>sym_to_proc</entry>
         <entry>rb_sym_to_proc</entry>
         <entry>method_to_proc</entry>
         <entry>hash_pro</entry>
+        <entry>to_proc</entry>
+        <entry>block</entry>
+        <entry encoding="base64">JiY=</entry>
+        <entry encoding="base64">Jg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
