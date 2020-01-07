@@ -11,6 +11,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
