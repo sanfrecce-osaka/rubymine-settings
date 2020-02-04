@@ -1469,18 +1469,42 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/compact_index_client" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/compact_index_client" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/bundler-2.1.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.0/lib/ruby/2.7.0/bundler/compact_index_client" />
       </excluded>
     </library>
     <library name="bundler (v2.1.4, rbenv: 2.7.0) [gem]" type="rubylib">
