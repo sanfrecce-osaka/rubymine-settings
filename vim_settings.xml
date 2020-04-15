@@ -4,6 +4,43 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>武装神姫</entry>
+        <entry>BLOOD</entry>
+        <entry>Fate</entry>
+        <entry>ひまわりっ</entry>
+        <entry>爆れつハンター</entry>
+        <entry>はじめ人間ギャートルズ</entry>
+        <entry>ハクション大魔王</entry>
+        <entry>鋼の錬金術師</entry>
+        <entry>DOG DAYS</entry>
+        <entry>トランスフォーマー</entry>
+        <entry>宇宙の騎士テッカマンブレード</entry>
+        <entry>デビルチルドレン</entry>
+        <entry>パトレイバー</entry>
+        <entry>パタリロ</entry>
+        <entry>Cache</entry>
+        <entry>RubyJP</entry>
+        <entry>SlackApi</entry>
+        <entry>fetch_public</entry>
+        <entry>all_public</entry>
+        <entry>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>q!</entry>
+        <entry>comment</entry>
+        <entry>facility</entry>
+        <entry>globalnavi</entry>
+        <entry>different</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -22,6 +59,201 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586949687128">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate_test.rb" timestamp="1586980732477">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1586856294900">
+        <mark key="[" line="217" column="22" />
+        <mark key="]" line="225" column="11" />
+        <mark key="." line="225" column="11" />
+        <mark key="^" line="225" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1586856301886">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate.rb" timestamp="1586984996043">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/8_string/count_exercise/my_count.rb" timestamp="1586952740784">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/" timestamp="1586985220742">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5420" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="5423" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9653" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9647" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9650" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9644" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9641" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9632" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9635" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="5327" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9626" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9629" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9623" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9563" column="18" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9560" column="16" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="5057" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9557" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9554" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9545" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9536" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9539" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9515" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9518" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9512" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9479" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9473" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9458" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9461" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9464" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9455" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9434" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9437" column="20" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9428" column="14" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9380" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9383" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9377" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9368" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9365" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9371" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="2858" column="30" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4166" column="15" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4178" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4181" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7874" column="33" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9359" column="15" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4013" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4016" column="15" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4019" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4022" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4025" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="4028" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7244" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7835" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9317" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9314" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9281" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9284" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9257" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9254" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9251" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3488" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="5849" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7058" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9248" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9200" column="16" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9203" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9206" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9179" column="17" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9182" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9185" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3083" column="21" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3086" column="21" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3089" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3092" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3095" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3098" column="21" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3101" column="22" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3104" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3107" column="26" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3110" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3113" column="18" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="9143" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="2798" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="8939" column="21" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="6266" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="6269" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="6272" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="8633" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="8636" column="13" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="8639" column="18" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="3731" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7760" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="7763" column="12" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="61" column="13" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="64" column="17" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="113" column="12" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="86" column="6" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="117" column="0" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICBfMQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICBfMQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRtcCA9IGNvcHkuc2xpY2UoMC4uKHRydW5jYXRlX2F0IC0gb21pc3Npb24ubGVuZ3RoKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNsaWNlKDAuLi4obGVuZ3RoIC0gaWR4IC0gMSkpICsgb21pc3Npb24K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcCB0bXAKICAgICAgICBwcCBpZHgK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBwICJIZWxsbyBXb3JsZCEiLm15X3RydW5jYXRlKDEzLCBvbWlzc2lvbjogIlsuLi5dIiwgc2VwYXJhdG9yOiAiICIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlkeCA9IHNlcGFyYXRvci5uaWw/ID8gbmlsIDogcmluZGV4KHNlcGFyYXRvcikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRvdGFsCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRvdGFsID0gMAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</last-search>
+      <last-offset />
+      <last-pattern>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
