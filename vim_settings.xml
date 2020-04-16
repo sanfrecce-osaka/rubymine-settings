@@ -80,6 +80,11 @@
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1586856301886">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mitakarb/beerkeeper/config/routes.rb" timestamp="1587036744230">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate.rb" timestamp="1586984996043">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="11" column="10" />
@@ -91,7 +96,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/" timestamp="1586985220742">
+      <file name="/" timestamp="1587036491674">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -200,11 +205,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNraXAK</text>
+      <register name="&quot;" type="4">
+        <text>to: 'sessions#new'</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>to: 'sessions#new'</text>
       </register>
       <register name="/" type="4">
         <text>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</text>
