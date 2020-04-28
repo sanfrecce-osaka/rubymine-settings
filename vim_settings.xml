@@ -23,10 +23,10 @@
         <entry>パタリロ</entry>
         <entry>Cache</entry>
         <entry>RubyJP</entry>
-        <entry>SlackApi</entry>
         <entry>fetch_public</entry>
         <entry>all_public</entry>
         <entry>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</entry>
+        <entry>SlackApi</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -63,7 +63,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587041931130">
+      <file name="/Dummy.txt" timestamp="1588075289896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate_test.rb" timestamp="1586985756680">
@@ -80,6 +80,7 @@
       <file name="$USER_HOME$/projects/mitakarb/beerkeeper/.gitignore" timestamp="1587036968094">
         <mark key="[" line="31" column="0" />
       </file>
+      <file name="/ruboty-channel-gacha.rb" timestamp="1588075247950" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1586856301886">
         <mark key="'" line="0" column="0" />
       </file>
@@ -94,15 +95,18 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588073378479">
-        <mark key="'" line="80" column="0" />
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588075471678">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/8_string/count_exercise/my_count.rb" timestamp="1586952740784">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/" timestamp="1588072406111">
+      <file name="/" timestamp="1588074657762">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -211,8 +215,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>to: 'sessions#new'</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="-" type="4">
         <text>to: 'sessions#new'</text>
@@ -223,32 +227,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNraXAK</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICBfMQo=</text>
+        <text encoding="base64">ICAgIHNraXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRtcCA9IGNvcHkuc2xpY2UoMC4uKHRydW5jYXRlX2F0IC0gb21pc3Npb24ubGVuZ3RoKSkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICBfMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRtcCA9IGNvcHkuc2xpY2UoMC4uKHRydW5jYXRlX2F0IC0gb21pc3Npb24ubGVuZ3RoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNsaWNlKDAuLi4obGVuZ3RoIC0gaWR4IC0gMSkpICsgb21pc3Npb24K</text>
+        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcCB0bXAKICAgICAgICBwcCBpZHgK</text>
+        <text encoding="base64">ICAgICAgICAjIHNsaWNlKDAuLi4obGVuZ3RoIC0gaWR4IC0gMSkpICsgb21pc3Npb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBwICJIZWxsbyBXb3JsZCEiLm15X3RydW5jYXRlKDEzLCBvbWlzc2lvbjogIlsuLi5dIiwgc2VwYXJhdG9yOiAiICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcCB0bXAKICAgICAgICBwcCBpZHgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkeCA9IHNlcGFyYXRvci5uaWw/ID8gbmlsIDogcmluZGV4KHNlcGFyYXRvcikK</text>
+        <text encoding="base64">ICAgIHBwICJIZWxsbyBXb3JsZCEiLm15X3RydW5jYXRlKDEzLCBvbWlzc2lvbjogIlsuLi5dIiwgc2VwYXJhdG9yOiAiICIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvdGFsCg==</text>
+        <text encoding="base64">ICAgIGlkeCA9IHNlcGFyYXRvci5uaWw/ID8gbmlsIDogcmluZGV4KHNlcGFyYXRvcikK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
