@@ -63,10 +63,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588075830533">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/Dummy.txt" timestamp="1588079125362">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate_test.rb" timestamp="1586985756680">
         <mark key="[" line="17" column="0" />
@@ -218,7 +218,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+        <text encoding="base64">IyMjIyDoo5zotrMK</text>
       </register>
       <register name="-" type="4">
         <text>to: 'sessions#new'</text>
@@ -230,31 +230,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+        <text encoding="base64">IyMjIyDoo5zotrMK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICA=</text>
-      </register>
       <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
