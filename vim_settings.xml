@@ -94,6 +94,9 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588073378479">
+        <mark key="'" line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/8_string/count_exercise/my_count.rb" timestamp="1586952740784">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="0" />
@@ -104,7 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5420" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="5423" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9653" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9647" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -204,6 +206,7 @@
       <jump line="86" column="6" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
       <jump line="117" column="0" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -215,7 +218,7 @@
         <text>to: 'sessions#new'</text>
       </register>
       <register name="/" type="4">
-        <text>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</text>
+        <text>SlackApi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -254,9 +257,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</last-search>
+      <last-search>SlackApi</last-search>
       <last-offset />
-      <last-pattern>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</last-pattern>
+      <last-pattern>SlackApi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
