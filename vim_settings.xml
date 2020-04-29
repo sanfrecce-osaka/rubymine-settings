@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>武装神姫</entry>
         <entry>BLOOD</entry>
         <entry>Fate</entry>
         <entry>ひまわりっ</entry>
@@ -27,6 +26,7 @@
         <entry>all_public</entry>
         <entry>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</entry>
         <entry>SlackApi</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -63,15 +63,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588147862790">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate_test.rb" timestamp="1586985756680">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/Dummy.txt" timestamp="1588148986730">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1586856294900">
         <mark key="[" line="217" column="22" />
@@ -82,12 +77,8 @@
       <file name="$USER_HOME$/projects/mitakarb/beerkeeper/.gitignore" timestamp="1587036968094">
         <mark key="[" line="31" column="0" />
       </file>
-      <file name="/ruboty-channel-gacha.rb" timestamp="1588079728255" />
       <file name="/Ruby Console" timestamp="1588087162846">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1586856301886">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mitakarb/beerkeeper/config/routes.rb" timestamp="1587036744230">
         <mark key="[" line="3" column="22" />
@@ -100,9 +91,9 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588075762035">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="131" column="0" />
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588149018510">
+        <mark key="'" line="134" column="34" />
+        <mark key="[" line="12" column="32" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
@@ -114,9 +105,20 @@
       <file name="/" timestamp="1588074657762">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate_test.rb" timestamp="1586985756680">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/ruboty-channel-gacha.rb" timestamp="1588079728255" />
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1586856301886">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/niconico/danime-nico-tools/config/settings.yml" timestamp="1588148525628">
+        <mark key="[" line="658" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="5423" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9653" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9647" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9650" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -216,48 +218,49 @@
       <jump line="117" column="0" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="134" column="34" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIyDoo5zotrMK</text>
+      <register name="&quot;" type="4">
+        <text>https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397087884</text>
       </register>
       <register name="-" type="4">
-        <text>to: 'sessions#new'</text>
+        <text>https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397087884</text>
       </register>
       <register name="/" type="4">
-        <text>SlackApi</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyDoo5zotrMK</text>
+        <text>元々 Ruboty 配下に全てのクラスを置くことが暗黙の規約としてあると思って Ruboty 配下にクラス/モジュールを作っていた</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyDoo5zotrMK</text>
       </register>
       <register name="3" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="8">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="7" type="8">
+        <text encoding="base64">ICA=</text>
+      </register>
+      <register name="8" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -266,9 +269,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>SlackApi</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>SlackApi</last-pattern>
+      <last-pattern>message</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
