@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>BLOOD</entry>
-        <entry>Fate</entry>
         <entry>ひまわりっ</entry>
         <entry>爆れつハンター</entry>
         <entry>はじめ人間ギャートルズ</entry>
@@ -27,6 +25,8 @@
         <entry>遊☆戯☆王SEVENS　ラッシュデュエル誕生編</entry>
         <entry>SlackApi</entry>
         <entry>message</entry>
+        <entry>shrinw</entry>
+        <entry>shrine</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -120,9 +120,11 @@
         <mark key="]" line="684" column="25" />
         <mark key="." line="684" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/Gemfile.lock" timestamp="1588294206899">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9653" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9647" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9650" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9644" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -222,6 +224,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
       <jump line="134" column="34" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/youcube/jomon-camera-rails/Gemfile.lock" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -233,7 +236,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>shrine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
@@ -272,9 +275,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>message</last-search>
+      <last-search>shrine</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>shrine</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
