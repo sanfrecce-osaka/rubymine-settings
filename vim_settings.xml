@@ -63,10 +63,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588933189232">
+      <file name="/Dummy.txt" timestamp="1588934247800">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1586856294900">
         <mark key="[" line="217" column="22" />
@@ -91,12 +91,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588933185960">
-        <mark key="'" line="131" column="34" />
-        <mark key="[" line="87" column="29" />
-        <mark key="]" line="87" column="35" />
-        <mark key="." line="87" column="34" />
-        <mark key="^" line="87" column="35" />
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588933557159">
+        <mark key="'" line="133" column="34" />
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/projects/8_string/count_exercise/my_count.rb" timestamp="1586952740784">
         <mark key="[" line="2" column="33" />
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>request_params を引数として渡すよう修正</text>
+        <text>https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397094406</text>
       </register>
       <register name="-" type="4">
-        <text>request_params を引数として渡すよう修正</text>
+        <text>https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397094406</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -241,31 +241,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby</text>
+        <text encoding="base64">44GX44GL44GX44CB44Gf44Gg44Gu44K344On44O844OI44OP44Oz44OJ44Gr44Gq44Gj44Gm44GE44Gm44Kv44Op44K544Oh44K944OD44OJ44Gn44GC44KL5oSP5ZGz44GM44GC44G+44KK44Gq44GL44Gj44Gf44Gf44KB44CBIFNsYWNrQXBpOjpDaGFubmVsLmFsbF9wdWJsaWNfY2hhbm5lbHMg44KS5YmK6Zmk44GX44GfCuOBvuOBn+OAgeWgtOWQiOOBq+OCiOOBo+OBpuOBryBBUEnjgq/jg6njgqTjgqLjg7Pjg4jjga7jgqTjg7Pjgrnjgr/jg7PjgrnjgpLopIfmlbDnlJ/miJDjgZfjgabkvb/jgYTliIbjgZHjgZ/jgYTjgZPjgajjgoLjgYLjgovjgajogIPjgYjjgIEgaW5pdGlhbGl6ZeaZgiDjgasgU2xhY2s6OkNsaWVudCDjga7jgqTjg7Pjgrnjgr/jg7PjgrnjgpLnlJ/miJDjgZfjgqTjg7Pjgrnjgr/jg7PjgrnlpInmlbDjgavmoLzntI3jgZnjgovjgojjgYbkvbXjgZvjgabkv67mraPjgZfjgZ8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBtZXNzYWdlCg==</text>
+        <text>SlackApi::Channel.all_public_channels を削除し SlackApi::Channel.fetch_</text>
       </register>
       <register name="3" type="2">
-        <text>元々 Ruboty 配下に全てのクラスを置くことが暗黙の規約としてあると思って Ruboty 配下にクラス/モジュールを作っていた</text>
+        <text>refs https://github.com/pocke/ruboty-ruby</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIyDoo5zotrMK</text>
+        <text encoding="base64">ICAgICAgICBwcCBtZXNzYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>元々 Ruboty 配下に全てのクラスを置くことが暗黙の規約としてあると思って Ruboty 配下にクラス/モジュールを作っていた</text>
       </register>
       <register name="6" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+        <text encoding="base64">IyMjIyDoo5zotrMK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICA=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
