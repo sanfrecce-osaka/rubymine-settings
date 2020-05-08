@@ -63,10 +63,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588914436748">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/Dummy.txt" timestamp="1588917566622">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1586856294900">
         <mark key="[" line="217" column="22" />
@@ -228,11 +228,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby</text>
+      <register name="&quot;" type="4">
+        <text>Options::Channel#initialize に Ruboty::Message のインスタンスを渡していた</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Options::Channel#initialize に Ruboty::Message のインスタンスを渡していた</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
