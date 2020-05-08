@@ -63,8 +63,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588846431979">
-        <mark key="[" line="4" column="39" />
+      <file name="/Dummy.txt" timestamp="1588905623511">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
@@ -103,7 +103,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/" timestamp="1588074657762">
+      <file name="/" timestamp="1588905696943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate_test.rb" timestamp="1586985756680">
