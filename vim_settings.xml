@@ -80,18 +80,21 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/Gemfile.lock" timestamp="1589315354406">
+        <mark key="'" line="98" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/8_string/truncate_exercise/my_truncate.rb" timestamp="1586984996043">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1588935691870">
-        <mark key="'" line="133" column="34" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="24" column="22" />
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-channel-gacha.rb" timestamp="1589314756978">
+        <mark key="'" line="172" column="34" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="169" column="89" />
+        <mark key="." line="169" column="88" />
+        <mark key="^" line="169" column="89" />
       </file>
       <file name="$USER_HOME$/projects/8_string/count_exercise/my_count.rb" timestamp="1586952740784">
         <mark key="[" line="2" column="33" />
@@ -106,7 +109,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/ruboty-channel-gacha.rb" timestamp="1588934304729" />
+      <file name="/ruboty-channel-gacha.rb" timestamp="1589314061232" />
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" timestamp="1586856301886">
         <mark key="'" line="0" column="0" />
       </file>
@@ -120,9 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9641" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="9632" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
-      <jump line="9635" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="5327" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9626" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
       <jump line="9629" column="9" filename="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/season_list.yml" />
@@ -220,48 +220,51 @@
       <jump line="268" column="4" filename="$USER_HOME$/projects/youcube/jomon-camera-rails/Gemfile.lock" />
       <jump line="140" column="4" filename="$USER_HOME$/projects/youcube/jomon-camera-rails/Gemfile.lock" />
       <jump line="311" column="2" filename="$USER_HOME$/projects/youcube/jomon-camera-rails/Gemfile.lock" />
+      <jump line="107" column="8" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/Gemfile.lock" />
+      <jump line="62" column="6" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/Gemfile.lock" />
+      <jump line="98" column="4" filename="$USER_HOME$/projects/oss/ruboty-ruby-jp/Gemfile.lock" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU2xhY2s6OkNsaWVudC5uZXcodG9rZW46ICd4b3hiLTkxMjEyNTEzMzQ4OS05MjQxNzMwODExMTEtMFNUQ1lhQVg4NkxwTDMzSzZDaVNjaU9aJykK</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
         <text>https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397094406</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>slop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU2xhY2s6OkNsaWVudC5uZXcodG9rZW46ICd4b3hiLTkxMjEyNTEzMzQ4OS05MjQxNzMwODExMTEtMFNUQ1lhQVg4NkxwTDMzSzZDaVNjaU9aJykK</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44GX44GL44GX44CB44Gf44Gg44Gu44K344On44O844OI44OP44Oz44OJ44Gr44Gq44Gj44Gm44GE44Gm44Kv44Op44K544Oh44K944OD44OJ44Gn44GC44KL5oSP5ZGz44GM44GC44G+44KK44Gq44GL44Gj44Gf44Gf44KB44CBIFNsYWNrQXBpOjpDaGFubmVsLmFsbF9wdWJsaWNfY2hhbm5lbHMg44KS5YmK6Zmk44GX44GfCuOBvuOBn+OAgeWgtOWQiOOBq+OCiOOBo+OBpuOBryBBUEnjgq/jg6njgqTjgqLjg7Pjg4jjga7jgqTjg7Pjgrnjgr/jg7PjgrnjgpLopIfmlbDnlJ/miJDjgZfjgabkvb/jgYTliIbjgZHjgZ/jgYTjgZPjgajjgoLjgYLjgovjgajogIPjgYjjgIEgaW5pdGlhbGl6ZeaZgiDjgasgU2xhY2s6OkNsaWVudCDjga7jgqTjg7Pjgrnjgr/jg7PjgrnjgpLnlJ/miJDjgZfjgqTjg7Pjgrnjgr/jg7PjgrnlpInmlbDjgavmoLzntI3jgZnjgovjgojjgYbkvbXjgZvjgabkv67mraPjgZfjgZ8K</text>
+        <text encoding="base64">ICAgICAgU2xhY2s6OkNsaWVudC5uZXcodG9rZW46ICd4b3hiLTkxMjEyNTEzMzQ4OS05MjQxNzMwODExMTEtMFNUQ1lhQVg4NkxwTDMzSzZDaVNjaU9aJykK</text>
       </register>
       <register name="3" type="2">
-        <text>SlackApi::Channel.all_public_channels を削除し SlackApi::Channel.fetch_</text>
+        <text encoding="base64">44GX44GL44GX44CB44Gf44Gg44Gu44K344On44O844OI44OP44Oz44OJ44Gr44Gq44Gj44Gm44GE44Gm44Kv44Op44K544Oh44K944OD44OJ44Gn44GC44KL5oSP5ZGz44GM44GC44G+44KK44Gq44GL44Gj44Gf44Gf44KB44CBIFNsYWNrQXBpOjpDaGFubmVsLmFsbF9wdWJsaWNfY2hhbm5lbHMg44KS5YmK6Zmk44GX44GfCuOBvuOBn+OAgeWgtOWQiOOBq+OCiOOBo+OBpuOBryBBUEnjgq/jg6njgqTjgqLjg7Pjg4jjga7jgqTjg7Pjgrnjgr/jg7PjgrnjgpLopIfmlbDnlJ/miJDjgZfjgabkvb/jgYTliIbjgZHjgZ/jgYTjgZPjgajjgoLjgYLjgovjgajogIPjgYjjgIEgaW5pdGlhbGl6ZeaZgiDjgasgU2xhY2s6OkNsaWVudCDjga7jgqTjg7Pjgrnjgr/jg7PjgrnjgpLnlJ/miJDjgZfjgqTjg7Pjgrnjgr/jg7PjgrnlpInmlbDjgavmoLzntI3jgZnjgovjgojjgYbkvbXjgZvjgabkv67mraPjgZfjgZ8K</text>
       </register>
       <register name="4" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby</text>
+        <text>SlackApi::Channel.all_public_channels を削除し SlackApi::Channel.fetch_</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBtZXNzYWdlCg==</text>
+        <text>refs https://github.com/pocke/ruboty-ruby</text>
       </register>
       <register name="6" type="2">
-        <text>元々 Ruboty 配下に全てのクラスを置くことが暗黙の規約としてあると思って Ruboty 配下にクラス/モジュールを作っていた</text>
+        <text encoding="base64">ICAgICAgICBwcCBtZXNzYWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIyDoo5zotrMK</text>
+        <text>元々 Ruboty 配下に全てのクラスを置くことが暗黙の規約としてあると思って Ruboty 配下にクラス/モジュールを作っていた</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyDoo5zotrMK</text>
       </register>
       <register name="9" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -270,9 +273,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>image</last-search>
+      <last-search>slop</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>slop</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBlY3RcPg==</last-substitute>
       <last-dir>1</last-dir>
