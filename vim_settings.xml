@@ -63,6 +63,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589317269819">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1586856294900">
         <mark key="[" line="217" column="22" />
         <mark key="]" line="225" column="11" />
