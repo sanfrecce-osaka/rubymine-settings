@@ -69,7 +69,7 @@
       <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/main.rb" timestamp="1590199156231">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590213419563">
+      <file name="/Dummy.txt" timestamp="1590214899670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -126,11 +126,11 @@
         <mark key="]" line="706" column="0" />
         <mark key="." line="706" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-rubyjp-channel.rb" timestamp="1590214027880">
-        <mark key="[" line="89" column="31" />
-        <mark key="]" line="130" column="13" />
-        <mark key="^" line="130" column="13" />
-        <mark key="." line="130" column="12" />
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-rubyjp-channel.rb" timestamp="1590214618595">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="90" column="11" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/Gemfile.lock" timestamp="1588295298085">
         <mark key="'" line="311" column="2" />
@@ -242,10 +242,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHAgb3B0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>options.any? { _1 == '-r' }</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -254,16 +254,16 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHAgb3B0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB3aXRoX3ByZV9tZXNzYWdlPwogICAgICBvcHRpb25zLmFueT8geyBfMSA9fiAvXEEtcHJlLyB9CiAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlCgogICAgZGVmIG9wdGlvbnMKICAgICAgCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIGRlZiB3aXRoX3ByZV9tZXNzYWdlPwogICAgICBvcHRpb25zLmFueT8geyBfMSA9fiAvXEEtcHJlLyB9CiAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlCgogICAgZGVmIG9wdGlvbnMKICAgICAgCiAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -272,13 +272,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>元々 Options::Channel#initialize に message 全体</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>Options::Channel#initialize に オプションの文字列のみを渡すよう修正</text>
+        <text>元々 Options::Channel#initialize に message 全体</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Options::Channel#initialize に オプションの文字列のみを渡すよう修正</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
