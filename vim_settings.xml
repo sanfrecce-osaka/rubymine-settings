@@ -66,10 +66,13 @@
       <file name="vim_settings.xml" timestamp="1590195135195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590198594035">
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/main.rb" timestamp="1590199156231">
+        <mark key="[" line="13" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590201037171">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/niconico/danime-nico-tools/db/fixtures/lists/on_air_season_list.yml" timestamp="1586856294900">
         <mark key="[" line="217" column="22" />
@@ -80,7 +83,7 @@
       <file name="$USER_HOME$/projects/mitakarb/beerkeeper/.gitignore" timestamp="1587036968094">
         <mark key="[" line="31" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1588087162846">
+      <file name="/Ruby Console" timestamp="1590199476572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mitakarb/beerkeeper/config/routes.rb" timestamp="1587036744230">
@@ -119,6 +122,9 @@
         <mark key="[" line="706" column="0" />
         <mark key="]" line="706" column="0" />
         <mark key="." line="706" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/oss/ruboty-ruby-jp/ruboty-rubyjp-channel.rb" timestamp="1590201032412">
+        <mark key="[" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/projects/youcube/jomon-camera-rails/Gemfile.lock" timestamp="1588295298085">
         <mark key="'" line="311" column="2" />
@@ -230,7 +236,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Options::Channel#initialize に オプションの文字列のみを渡すよう修正</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -242,31 +248,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KDFfMDAwMF8wMDAwXzAwMDBfMDAwMF8wMDAwXzAwMDAudG9fY2hpbmVzZV9udW1lcmFsKS50byBlcSAn5LiA8KWdsScK</text>
       </register>
       <register name="1" type="2">
-        <text>Options::Channel#initialize に オプションの文字列のみを渡すよう修正</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAtIGlkOiA0MgogICAgdGl0bGU6ICflubPml6Xmt7HlkbzlkLjjgIInCiAgICBlcGlzb2RlczoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBtZXNzYWdlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text>元々 Ruboty 配下に全てのクラスを置くことが暗黙の規約としてあると思って Ruboty 配下にクラス/モジュールを作っていた</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMjIyDoo5zotrMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text>元々 Options::Channel#initialize に message 全体</text>
+      </register>
+      <register name="5" type="2">
+        <text>Options::Channel#initialize に オプションの文字列のみを渡すよう修正</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAtIGlkOiA0MgogICAgdGl0bGU6ICflubPml6Xmt7HlkbzlkLjjgIInCiAgICBlcGlzb2RlczoK</text>
+      </register>
       <register name="8" type="2">
-        <text>refs https://github.com/pocke/ruboty-ruby-jp/pull/37#discussion_r397100976</text>
+        <text encoding="base64">ICAgICAgICBwcCBtZXNzYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>元々 Ruboty 配下に全てのクラスを置くことが暗黙の規約としてあると思って Ruboty 配下にクラス/モジュールを作っていた</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
